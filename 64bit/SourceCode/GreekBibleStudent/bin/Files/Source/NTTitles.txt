@@ -1,0 +1,27 @@
+Matthew	Mt	61-Mt-morphgnt.txt
+Mark	Mk	62-Mk-morphgnt.txt
+Luke	Lk	63-Lk-morphgnt.txt
+John	Jn	64-Jn-morphgnt.txt
+Acts of the Apostles	Ac	65-Ac-morphgnt.txt
+Romans	Ro	66-Ro-morphgnt.txt
+1 Corinthians	1Co	67-1Co-morphgnt.txt
+2 Corinthians	2Co	68-2Co-morphgnt.txt
+Galatians	Ga	69-Ga-morphgnt.txt
+Ephesians	Eph	70-Eph-morphgnt.txt
+Philippians	Php	71-Php-morphgnt.txt
+Colossians	Col	72-Col-morphgnt.txt
+1 Thessalonians	1Th	73-1Th-morphgnt.txt
+2 Thessalonians	2Th	74-2Th-morphgnt.txt
+1 Timothy	1Ti	75-1Ti-morphgnt.txt
+2 Timothy	2Ti	76-2Ti-morphgnt.txt
+Titus	Tit	77-Tit-morphgnt.txt
+Philemon	Phm	78-Phm-morphgnt.txt
+Hebrews	Heb	79-Heb-morphgnt.txt
+James	Jas	80-Jas-morphgnt.txt
+1 Peter	1Pe	81-1Pe-morphgnt.txt
+2 Peter	2Pe	82-2Pe-morphgnt.txt
+1 John	1Jn	83-1Jn-morphgnt.txt
+2 John	2Jn	84-2Jn-morphgnt.txt
+3 John	3Jn	85-3Jn-morphgnt.txt
+Jude	Jud	86-Jud-morphgnt.txt
+Revelation	Re	87-Re-morphgnt.txt

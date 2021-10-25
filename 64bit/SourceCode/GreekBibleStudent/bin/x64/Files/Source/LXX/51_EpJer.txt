@@ -1,0 +1,1285 @@
+﻿1	0	N2N	NSN	17538	Ἀντίγραφον	ἀντιγραφον	αντιγραφον	ἀντίγραφον				A)NTI/GRAFON	A)NTI/GRAFON
+1	0	N1	GSF	13634	ἐπιστολῆς	ἐπιστολης	επιστολης	ἐπιστολή			,	E)PISTOLH=S	E)PISTOLH/
+1	0	RR	GSF	14	ἧς	ἡς	ης	ὅς				H(=S	O(/S
+1	0	VAI	AAI3S	633473	ἀπέστειλεν	ἀπεστειλεν	απεστειλεν	ἀποστέλλω				A)PE/STEILEN	STE/LLW          A)PO
+1	0	N	NSM	9346	Ιερεμιας	ιερεμιας	ιερεμιας	Ἱερεμίας				*IEREMIAS	*I)EREMI/AS
+1	0	P		8	πρὸς	προς	προς	πρός				PRO\S	PRO/S
+1	0	RA	APM	10	τοὺς	τους	τους	ὁ				TOU\S	O(
+1	0	VQ	FPPAPM	5130689	ἀχθησομένους	ἀχθησομενους	αχθησομενους	ἄγω				A)XQHSOME/NOUS	A)/GW
+1	0	A1B	APM	9987	αἰχμαλώτους	αἰχμαλωτους	αιχμαλωτους	αἰχμάλωτος				AI)XMALW/TOUS	AI)XMA/LWTOS
+1	0	P		8	εἰς	εἰς	εις	εἰς				EI)S	EI)S
+1	0	N3W	ASF	13570	Βαβυλῶνα	βαβυλωνα	βαβυλωνα	Βαβυλών				*BABULW=NA	*BABULW/N
+1	0	P		8	ὑπὸ	ὑπο	υπο	ὑπό				U(PO\	U(PO/
+1	0	RA	GSM	10	τοῦ	του	του	ὁ				TOU=	O(
+1	0	N3V	GSM	9538	βασιλέως	βασιλεως	βασιλεως	βασιλεύς				BASILE/WS	BASILEU/S
+1	0	RA	GPM	10	τῶν	των	των	ὁ				TW=N	O(
+1	0	N	GPM	10050	Βαβυλωνίων	βαβυλωνιων	βαβυλωνιων	Βαβυλώνιος				*BABULWNI/WN	*BABULW/NIOS
+1	0	VA	AAN	306049	ἀναγγεῖλαι	ἀναγγειλαι	αναγγειλαι	ἀναγγέλλω				A)NAGGEI=LAI	A)GGE/LLW        A)NA
+1	0	RD	DPM	11	αὐτοῖς	αὐτοις	αυτοις	αὐτός				AU)TOI=S	AU)TO/S
+1	0	C		4	καθότι	καθοτι	καθοτι	καθότι				KAQO/TI	KAQO/TI
+1	0	VDI	API3S	641665	ἐπετάγη	ἐπεταγη	επεταγη	ἐπιτάσσω				E)PETA/GH	TA/SSW           E)PI
+1	0	RD	DSM	11	αὐτῷ	αὐτω	αυτω	αὐτός				AU)TW=|	AU)TO/S
+1	0	P		8	ὑπὸ	ὑπο	υπο	ὑπό				U(PO\	U(PO/
+1	0	RA	GSM	10	τοῦ	του	του	ὁ				TOU=	O(
+1	0	N2	GSM	9538	θεοῦ	θεου	θεου	θεός			.	QEOU=	QEO/S
+0	1	P		8	Διὰ	δια	δια	διά				DIA\	DIA/
+0	1	RA	APF	10	τὰς	τας	τας	ὁ				TA\S	O(
+0	1	N1A	APF	14082	ἁμαρτίας	ἁμαρτιας	αμαρτιας	ἁμαρτία			,	A(MARTI/AS	A(MARTI/A
+0	1	RR	APF	14	ἃς	ἁς	ας	ὅς				A(\S	O(/S
+0	1	VX	XAI2P	896129	ἡμαρτήκατε	ἡμαρτηκατε	ημαρτηκατε	ἁμαρτάνω				H(MARTH/KATE	A(MARTA/NW
+0	1	P		8	ἐναντίον	ἐναντιον	εναντιον	ἐναντίον				E)NANTI/ON	E)NANTI/ON
+0	1	RA	GSM	10	τοῦ	του	του	ὁ				TOU=	O(
+0	1	N2	GSM	9538	θεοῦ	θεου	θεου	θεός			,	QEOU=	QEO/S
+0	1	VQ	FPI2P	903297	ἀχθήσεσθε	ἀχθησεσθε	αχθησεσθε	ἄγω				A)XQH/SESQE	A)/GW
+0	1	P		8	εἰς	εἰς	εις	εἰς				EI)S	EI)S
+0	1	N3W	ASF	13570	Βαβυλῶνα	βαβυλωνα	βαβυλωνα	Βαβυλών				*BABULW=NA	*BABULW/N
+0	1	A1B	NPM	9859	αἰχμάλωτοι	αἰχμαλωτοι	αιχμαλωτοι	αἰχμάλωτος				AI)XMA/LWTOI	AI)XMA/LWTOS
+0	1	P		8	ὑπὸ	ὑπο	υπο	ὑπό				U(PO\	U(PO/
+0	1	N	GSM	9538	Ναβουχοδονοσορ	ναβουχοδονοσορ	ναβουχοδονοσορ	Ναβουχοδονοσόρ				*NABOUXODONOSOR	*NABOUXODONOSOR
+0	1	N3V	GSM	9538	βασιλέως	βασιλεως	βασιλεως	βασιλεύς				BASILE/WS	BASILEU/S
+0	1	RA	GPM	10	τῶν	των	των	ὁ				TW=N	O(
+0	1	N	GPM	10050	Βαβυλωνίων	βαβυλωνιων	βαβυλωνιων	Βαβυλώνιος			.	*BABULWNI/WN	*BABULW/NIOS
+0	2	VB	AAPNPM	5057473	εἰσελθόντες	εἰσελθοντες	εισελθοντες	εἰσέρχομαι				EI)SELQO/NTES	E)/RXOMAI        EI)S
+0	2	X		5	οὖν	οὐν	ουν	οὖν				OU)=N	OU)=N
+0	2	P		8	εἰς	εἰς	εις	εἰς				EI)S	EI)S
+0	2	N3W	ASF	13570	Βαβυλῶνα	βαβυλωνα	βαβυλωνα	Βαβυλών				*BABULW=NA	*BABULW/N
+0	2	VF	FMI2P	899201	ἔσεσθε	ἐσεσθε	εσεσθε	εἰμί				E)/SESQE	EI)MI/
+0	2	D		9	ἐκεῖ	ἐκει	εκει	ἐκεῖ				E)KEI=	E)KEI=
+0	2	N3E	APN	18178	ἔτη	ἐτη	ετη	ἔτος				E)/TH	E)/TOS
+0	2	A3C	APN	18179	πλείονα	πλειονα	πλειονα	πλείων				PLEI/ONA	POLU/S
+0	2	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	2	N2	ASM	9474	χρόνον	χρονον	χρονον	χρόνος				XRO/NON	XRO/NOS
+0	2	A1A	ASM	9475	μακρὸν	μακρον	μακρον	μακρός				MAKRO\N	MAKRO/S
+0	2	P		8	ἕως	ἑως	εως	ἕως				E(/WS	E(/WS
+0	2	N1A	GPF	14146	γενεῶν	γενεων	γενεων	γενεά				GENEW=N	GENEA/
+0	2	M		7	ἑπτά	ἑπτα	επτα	ἑπτά			,	E(PTA/	E(PTA/
+0	2	P		8	μετὰ	μετα	μετα	μετά				META\	META/
+0	2	RD	ASN	11	τοῦτο	τουτο	τουτο	οὗτος				TOU=TO	OU(=TOS
+0	2	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	2	VF	FAI1S	600193	ἐξάξω	ἐξαξω	εξαξω	ἐξάγω				E)CA/CW	A)/GW            E)K
+0	2	RP	AP	13	ὑμᾶς	ὑμας	υμας	ὑμᾶς				U(MA=S	SU/
+0	2	D		9	ἐκεῖθεν	ἐκειθεν	εκειθεν	ἐκεῖθεν				E)KEI=QEN	E)KEI=QEN
+0	2	P		8	μετ	μετ	μετ	μετά				MET'	META/
+0	2	N1	GSF	13634	εἰρήνης	εἰρηνης	ειρηνης	εἰρήνη			.	EI)RH/NHS	EI)RH/NH
+0	3	D		9	νυνὶ	νυνι	νυνι	νυνί				NUNI\	NUNI/
+0	3	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	3	VF	FMI2P	899201	ὄψεσθε	ὀψεσθε	οψεσθε	ὁράω				O)/YESQE	O(RA/W
+0	3	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	3	N3W	DSF	13698	Βαβυλῶνι	βαβυλωνι	βαβυλωνι	Βαβυλών				*BABULW=NI	*BABULW/N
+0	3	N2	APM	9986	θεοὺς	θεους	θεους	θεός				QEOU\S	QEO/S
+0	3	A1C	APM	9987	ἀργυροῦς	ἀργυρους	αργυρους	ἀργύρεος				A)RGUROU=S	A)RGUROU=S
+0	3	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	3	A1C	APM	9987	χρυσοῦς	χρυσους	χρυσους	χρύσεος				XRUSOU=S	XRUSOU=S
+0	3	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	3	A1	APM	9987	ξυλίνους	ξυλινους	ξυλινους	ξύλινος				CULI/NOUS	CU/LINOS
+0	3	P		8	ἐπ	ἐπ	επ	ἐπί				E)P'	E)PI/
+0	3	N2	DPM	10114	ὤμοις	ὠμοις	ωμοις	ὦμος				W)/MOIS	W)=MOS
+0	3	V1	PPPAPM	5129665	αἰρομένους	αἰρομενους	αιρομενους	αἴρω				AI)ROME/NOUS	AI)/RW
+0	3	V5	PAPAPM	5121473	δεικνύντας	δεικνυντας	δεικνυντας	δεικνύω				DEIKNU/NTAS	DEIKNU/W
+0	3	N2	ASM	9474	φόβον	φοβον	φοβον	φόβος				FO/BON	FO/BOS
+0	3	RA	DPN	10	τοῖς	τοις	τοις	ὁ				TOI=S	O(
+0	3	N3E	DPN	18306	ἔθνεσιν	ἐθνεσιν	εθνεσιν	ἔθνος			.	E)/QNESIN	E)/QNOS
+0	4	VC	APD2P	903873	εὐλαβήθητε	εὐλαβηθητε	ευλαβηθητε	εὐλαβέομαι				EU)LABH/QHTE	EU)LABE/OMAI
+0	4	X		5	οὖν	οὐν	ουν	οὖν				OU)=N	OU)=N
+0	4	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	4	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	4	RP	NP	13	ὑμεῖς	ὑμεις	υμεις	ὑμεῖς				U(MEI=S	SU/
+0	4	VC	APPNPM	5065665	ἀφομοιωθέντες	ἀφομοιωθεντες	αφομοιωθεντες	ἀφομοιόω				A)FOMOIWQE/NTES	O(MOIO/W         A)PO
+0	4	RA	DPM	10	τοῖς	τοις	τοις	ὁ				TOI=S	O(
+0	4	A1B	DPM	10115	ἀλλοφύλοις	ἀλλοφυλοις	αλλοφυλοις	ἀλλόφυλος				A)LLOFU/LOIS	A)LLO/FULOS
+0	4	VC	APS2P	903937	ἀφομοιωθῆτε	ἀφομοιωθητε	αφομοιωθητε	ἀφομοιόω				A)FOMOIWQH=TE	O(MOIO/W         A)PO
+0	4	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	4	N2	NSM	9346	φόβος	φοβος	φοβος	φόβος				FO/BOS	FO/BOS
+0	4	RP	AP	13	ὑμᾶς	ὑμας	υμας	ὑμᾶς				U(MA=S	SU/
+0	4	VB	AAS3S	633601	λάβῃ	λαβη	λαβη	λαμβάνω				LA/BH|	LAMBA/NW
+0	4	P		8	ἐπ	ἐπ	επ	ἐπί				E)P'	E)PI/
+0	4	RD	DPM	11	αὐτοῖς	αὐτοις	αυτοις	αὐτός				AU)TOI=S	AU)TO/S
+0	5	VB	AAPAPM	5123009	ἰδόντας	ἰδοντας	ιδοντας	ὁράω				I)DO/NTAS	O(RA/W
+0	5	N2	ASM	9474	ὄχλον	ὀχλον	οχλον	ὄχλος				O)/XLON	O)/XLOS
+0	5	P		8	ἔμπροσθεν	ἐμπροσθεν	εμπροσθεν	ἔμπροσθεν				E)/MPROSQEN	E)/MPROSQEN
+0	5	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	5	P		8	ὄπισθεν	ὀπισθεν	οπισθεν	ὄπισθεν				O)/PISQEN	O)/PISQEN
+0	5	RD	GPN	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	5	V2	PAPAPM	5121473	προσκυνοῦντας	προσκυνουντας	προσκυνουντας	προσκυνέω				PROSKUNOU=NTAS	KUNE/W           PROS
+0	5	RD	APN	11	αὐτά	αὐτα	αυτα	αὐτός			,	AU)TA/	AU)TO/S
+0	5	VAI	AAD2P	895681	εἴπατε	εἰπατε	ειπατε	ἔπω				EI)/PATE	EI)=PON
+0	5	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	5	RA	DSF	10	τῇ	τη	τη	ὁ				TH=|	O(
+0	5	N1A	DSF	13698	διανοίᾳ	διανοια	διανοια	διάνοια				DIANOI/A|	DIA/NOIA
+0	5	RP	DS	13	Σοὶ	σοι	σοι	σοί				SOI\	SU/
+0	5	V2	PAI3S	631937	δεῖ	δει	δει	δεῖ				DEI=	DE/W
+0	5	V2	PAN	304513	προσκυνεῖν	προσκυνειν	προσκυνειν	προσκυνέω			,	PROSKUNEI=N	KUNE/W           PROS
+0	5	N1M	VSM	9410	δέσποτα	δεσποτα	δεσποτα	δεσπότης			.	DE/SPOTA	DESPO/THS
+0	6	RA	NSM	10	ὁ	ὁ	ο	ὁ				O(	O(
+0	6	X		5	γὰρ	γαρ	γαρ	γάρ				GA\R	GA/R
+0	6	N2	NSM	9346	ἄγγελός	ἀγγελος	αγγελος	ἄγγελος				A)/GGELO/S	A)/GGELOS
+0	6	RP	GS	13	μου	μου	μου	μου				MOU	E)GW/
+0	6	P		8	μεθ	μεθ	μεθ	μετά				MEQ'	META/
+0	6	RP	GP	13	ὑμῶν	ὑμων	υμων	ὑμῶν				U(MW=N	SU/
+0	6	V9	PAI3S	631937	ἐστιν	ἐστιν	εστιν	εἰμί			,	E)STIN	EI)MI/
+0	6	RD	NSM	11	αὐτός	αὐτος	αυτος	αὐτός				AU)TO/S	AU)TO/S
+0	6	X		5	τε	τε	τε	τε				TE	TE
+0	6	V2	PAPNSM	4793793	ἐκζητῶν	ἐκζητων	εκζητων	ἐκζητέω				E)KZHTW=N	ZHTE/W           E)K
+0	6	RA	APF	10	τὰς	τας	τας	ὁ				TA\S	O(
+0	6	N1	APF	14082	ψυχὰς	ψυχας	ψυχας	ψυχή				YUXA\S	YUXH/
+0	6	RP	GP	13	ὑμῶν	ὑμων	υμων	ὑμῶν			.	U(MW=N	SU/
+0	7	N1S	NSF	13442	Γλῶσσα	γλωσσα	γλωσσα	γλῶσσα				GLW=SSA	GLW=SSA
+0	7	X		5	γὰρ	γαρ	γαρ	γάρ				GA\R	GA/R
+0	7	RD	GPN	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	7	V9	PAI3S	631937	ἐστιν	ἐστιν	εστιν	εἰμί				E)STIN	EI)MI/
+0	7	VM	XPPNSF	6901185	κατεξυσμένη	κατεξυσμενη	κατεξυσμενη	καταξύω				KATECUSME/NH	CU/W             KATA
+0	7	P		8	ὑπὸ	ὑπο	υπο	ὑπό				U(PO\	U(PO/
+0	7	N3N	GSM	9538	τέκτονος	τεκτονος	τεκτονος	τέκτων			,	TE/KTONOS	TE/KTWN
+0	7	RD	NPN	11	αὐτά	αὐτα	αυτα	αὐτός				AU)TA/	AU)TO/S
+0	7	X		5	τε	τε	τε	τε				TE	TE
+0	7	A1B	NPN	18051	περίχρυσα	περιχρυσα	περιχρυσα	περίχρυσος				PERI/XRUSA	PERI/XRUSOS
+0	7	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	7	A1B	NPN	18051	περιάργυρα	περιαργυρα	περιαργυρα	περιάργυρος			,	PERIA/RGURA	PERIA/RGUROS
+0	7	A3H	NPN	18051	ψευδῆ	ψευδη	ψευδη	ψευδής				YEUDH=	YEUDH/S
+0	7	X		5	δ	δ	δ	δέ				D'	DE/
+0	7	V9	PAI3S	631937	ἐστὶν	ἐστιν	εστιν	εἰμί				E)STI\N	EI)MI/
+0	7	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	7	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	7	V6	PMI3P	898177	δύνανται	δυνανται	δυνανται	δύναμαι				DU/NANTAI	DU/NAMAI
+0	7	V2	PAN	304513	λαλεῖν	λαλειν	λαλειν	λαλέω			.	LALEI=N	LALE/W
+0	8	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	8	D		9	ὥσπερ	ὡσπερ	ωσπερ	ὥσπερ				W(/SPER	W(/SPER
+0	8	N2	DSF	13698	παρθένῳ	παρθενω	παρθενω	παρθένος				PARQE/NW|	PARQE/NOS
+0	8	A1B	DSF	13699	φιλοκόσμῳ	φιλοκοσμω	φιλοκοσμω	φιλόκοσμος				FILOKO/SMW|	FILO/KOSMOS
+0	8	V1	PAPNPM	5055937	λαμβάνοντες	λαμβανοντες	λαμβανοντες	λαμβάνω				LAMBA/NONTES	LAMBA/NW
+0	8	N2N	ASN	17666	χρυσίον	χρυσιον	χρυσιον	χρυσίον				XRUSI/ON	XRUSI/ON
+0	8	V1	PAI3P	894081	κατασκευάζουσιν	κατασκευαζουσιν	κατασκευαζουσιν	κατασκευάζω				KATASKEUA/ZOUSIN	SKEUA/ZW         KATA
+0	8	N2	APM	9986	στεφάνους	στεφανους	στεφανους	στέφανος				STEFA/NOUS	STE/FANOS
+0	8	P		8	ἐπὶ	ἐπι	επι	ἐπί				E)PI\	E)PI/
+0	8	RA	APF	10	τὰς	τας	τας	ὁ				TA\S	O(
+0	8	N1	APF	14082	κεφαλὰς	κεφαλας	κεφαλας	κεφαλή				KEFALA\S	KEFALH/
+0	8	RA	GPM	10	τῶν	των	των	ὁ				TW=N	O(
+0	8	N2	GPM	10050	θεῶν	θεων	θεων	θεός				QEW=N	QEO/S
+0	8	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός			·	AU)TW=N	AU)TO/S
+0	9	V9	PAI3S	631937	ἔστι	ἐστι	εστι	εἰμί				E)/STI	EI)MI/
+0	9	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	9	D		9	καὶ	και	και	καί				KAI\	KAI/
+0	9	D		9	ὅτε	ὁτε	οτε	ὅτε				O(/TE	O(/TE
+0	9	V2	PMPNPM	5060033	ὑφαιρούμενοι	ὑφαιρουμενοι	υφαιρουμενοι	ὑφαιρέω				U(FAIROU/MENOI	AI(RE/W          U(PO
+0	9	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	9	N3V	NPM	9858	ἱερεῖς	ἱερεις	ιερεις	ἱερεύς				I(EREI=S	I(EREU/S
+0	9	P		8	ἀπὸ	ἀπο	απο	ἀπό				A)PO\	A)PO/
+0	9	RA	GPM	10	τῶν	των	των	ὁ				TW=N	O(
+0	9	N2	GPM	10050	θεῶν	θεων	θεων	θεός				QEW=N	QEO/S
+0	9	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	9	N2N	ASN	17666	χρυσίον	χρυσιον	χρυσιον	χρυσίον				XRUSI/ON	XRUSI/ON
+0	9	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	9	N2N	ASN	17666	ἀργύριον	ἀργυριον	αργυριον	ἀργύριον				A)RGU/RION	A)RGU/RION
+0	9	P		8	εἰς	εἰς	εις	εἰς				EI)S	EI)S
+0	9	RD	APM	11	ἑαυτοὺς	ἑαυτους	εαυτους	ἑαυτοῦ				E(AUTOU\S	E(AUTOU=
+0	9	VF	FAI3P	895105	καταναλώσουσιν	καταναλωσουσιν	καταναλωσουσιν	καταναλίσκω			,	KATANALW/SOUSIN	A(LI/SKW         KATA  A)NA
+0	9	VF	FAI3P	895105	δώσουσιν	δωσουσιν	δωσουσιν	δίδωμι				DW/SOUSIN	DI/DWMI
+0	9	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	9	P		8	ἀπ	ἀπ	απ	ἀπό				A)P'	A)PO/
+0	9	RD	GPN	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	9	D		9	καὶ	και	και	καί				KAI\	KAI/
+0	9	RA	DPF	10	ταῖς	ταις	ταις	ὁ				TAI=S	O(
+0	9	P		8	ἐπὶ	ἐπι	επι	ἐπί				E)PI\	E)PI/
+0	9	RA	GSN	10	τοῦ	του	του	ὁ				TOU=	O(
+0	9	N3E	GSN	17730	τέγους	τεγους	τεγους	τέγος				TE/GOUS	TE/GOS
+0	9	N1	DPF	14210	πόρναις	πορναις	πορναις	πόρνη			.	PO/RNAIS	PO/RNH
+0	10	V2	PAI3P	894081	κοσμοῦσί	κοσμουσι	κοσμουσι	κοσμέω				KOSMOU=SI/	KOSME/W
+0	10	X		5	τε	τε	τε	τε				TE	TE
+0	10	RD	APM	11	αὐτοὺς	αὐτους	αυτους	αὐτός				AU)TOU\S	AU)TO/S
+0	10	C		4	ὡς	ὡς	ως	ὥς				W(S	W(S
+0	10	N2	APM	9986	ἀνθρώπους	ἀνθρωπους	ανθρωπους	ἄνθρωπος				A)NQRW/POUS	A)/NQRWPOS
+0	10	RA	DPN	10	τοῖς	τοις	τοις	ὁ				TOI=S	O(
+0	10	N3M	DPN	18306	ἐνδύμασιν	ἐνδυμασιν	ενδυμασιν	ἔνδυμα			,	E)NDU/MASIN	E)/NDUMA
+0	10	N2	APM	9986	θεοὺς	θεους	θεους	θεός				QEOU\S	QEO/S
+0	10	A1C	APM	9987	ἀργυροῦς	ἀργυρους	αργυρους	ἀργύρεος				A)RGUROU=S	A)RGUROU=S
+0	10	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	10	A1C	APM	9987	χρυσοῦς	χρυσους	χρυσους	χρύσεος				XRUSOU=S	XRUSOU=S
+0	10	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	10	A1	APM	9987	ξυλίνους	ξυλινους	ξυλινους	ξύλινος			·	CULI/NOUS	CU/LINOS
+0	10	RD	NPM	11	οὗτοι	οὑτοι	ουτοι	οὗτος				OU(=TOI	OU(=TOS
+0	10	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	10	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	10	V1	PMI3P	898177	διασῴζονται	διασωζονται	διασωζονται	διασώζω				DIASW/|ZONTAI	SW/ZW            DIA
+0	10	P		8	ἀπὸ	ἀπο	απο	ἀπό				A)PO\	A)PO/
+0	10	N2	GSM	9538	ἰοῦ	ἰου	ιου	ἰός				I)OU=	I)O/S
+0	10	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	10	N3M	GPN	18242	βρωμάτων	βρωματων	βρωματων	βρῶμα			.	BRWMA/TWN	BRW=MA
+0	11	VM	XMPGPM	5160385	περιβεβλημένων	περιβεβλημενων	περιβεβλημενων	περιβάλλω				PERIBEBLHME/NWN	BA/LLW           PERI
+0	11	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	11	N2	ASM	9474	ἱματισμὸν	ἱματισμον	ιματισμον	ἱματισμός				I(MATISMO\N	I(MATISMO/S
+0	11	A1C	ASM	9475	πορφυροῦν	πορφυρουν	πορφυρουν	πορφυροῦς			,	PORFUROU=N	PORFUROU=S
+0	11	V1	PMI3P	898177	ἐκμάσσονται	ἐκμασσονται	εκμασσονται	ἐκμάσσω				E)KMA/SSONTAI	MA/SSW           E)K
+0	11	RA	ASN	10	τὸ	το	το	ὁ				TO\	O(
+0	11	N2N	ASN	17666	πρόσωπον	προσωπον	προσωπον	πρόσωπον				PRO/SWPON	PRO/SWPON
+0	11	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	11	P		8	διὰ	δια	δια	διά				DIA\	DIA/
+0	11	RA	ASM	10	τὸν	τον	τον	ὁ				TO\N	O(
+0	11	P		8	ἐκ	ἐκ	εκ	ἐκ				E)K	E)K
+0	11	RA	GSF	10	τῆς	της	της	ὁ				TH=S	O(
+0	11	N1A	GSF	13634	οἰκίας	οἰκιας	οικιας	οἰκία				OI)KI/AS	OI)KI/A
+0	11	N2	ASM	9474	κονιορτόν	κονιορτον	κονιορτον	κονιορτός			,	KONIORTO/N	KONIORTO/S
+0	11	RR	NSM	14	ὅς	ὁς	ος	ὅς				O(/S	O(/S
+0	11	V9	PAI3S	631937	ἐστιν	ἐστιν	εστιν	εἰμί				E)STIN	EI)MI/
+0	11	A3C	NSM	9347	πλείων	πλειων	πλειων	πολύς				PLEI/WN	POLU/S
+0	11	P		8	ἐπ	ἐπ	επ	ἐπί				E)P'	E)PI/
+0	11	RD	DPM	11	αὐτοῖς	αὐτοις	αυτοις	αὐτός			.	AU)TOI=S	AU)TO/S
+0	12	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	12	N2N	ASN	17666	σκῆπτρον	σκηπτρον	σκηπτρον	σκῆπτρον				SKH=PTRON	SKH=PTRON
+0	12	V1	PAI3S	631937	ἔχει	ἐχει	εχει	ἔχω				E)/XEI	E)/XW
+0	12	C		4	ὡς	ὡς	ως	ὥς				W(S	W(S
+0	12	N2	NSM	9346	ἄνθρωπος	ἀνθρωπος	ανθρωπος	ἄνθρωπος				A)/NQRWPOS	A)/NQRWPOS
+0	12	N1M	NSM	9346	κριτὴς	κριτης	κριτης	κριτής				KRITH\S	KRITH/S
+0	12	N1A	GSF	13634	χώρας	χωρας	χωρας	χώρα			,	XW/RAS	XW/RA
+0	12	RR	NSM	14	ὃς	ὁς	ος	ὅς				O(\S	O(/S
+0	12	RA	ASM	10	τὸν	τον	τον	ὁ				TO\N	O(
+0	12	P		8	εἰς	εἰς	εις	εἰς				EI)S	EI)S
+0	12	RD	ASM	11	αὐτὸν	αὐτον	αυτον	αὐτός				AU)TO\N	AU)TO/S
+0	12	V1	PAPASM	4859329	ἁμαρτάνοντα	ἁμαρτανοντα	αμαρτανοντα	ἁμαρτάνω				A(MARTA/NONTA	A(MARTA/NW
+0	12	D		9	οὐκ	οὐκ	ουκ	οὐ				OU)K	OU)
+0	12	VF2	FAI3S	632961	ἀνελεῖ	ἀνελει	ανελει	ἀναιρέω			.	A)NELEI=	AI(RE/W          A)NA
+0	13	V1	PAI3S	631937	ἔχει	ἐχει	εχει	ἔχω				E)/XEI	E)/XW
+0	13	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	13	N2N	ASN	17666	ἐγχειρίδιον	ἐγχειριδιον	εγχειριδιον	ἐγχειρίδιον				E)GXEIRI/DION	E)GXEIRI/DION
+0	13	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	13	A1A	DSF	13699	δεξιᾷ	δεξια	δεξια	δεξιός				DECIA=|	DECIO/S
+0	13	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	13	N3	ASM	9474	πέλεκυν	πελεκυν	πελεκυν	πέλεκυς			,	PE/LEKUN	PE/LEKUS
+0	13	RD	ASM	11	ἑαυτὸν	ἑαυτον	εαυτον	ἑαυτοῦ				E(AUTO\N	E(AUTOU=
+0	13	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	13	P		8	ἐκ	ἐκ	εκ	ἐκ				E)K	E)K
+0	13	N2	GSM	9538	πολέμου	πολεμου	πολεμου	πόλεμος				POLE/MOU	PO/LEMOS
+0	13	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	13	N1M	GPM	10050	λῃστῶν	ληστων	ληστων	λῃστής				LH|STW=N	LH|STH/S
+0	13	D		9	οὐκ	οὐκ	ουκ	οὐ				OU)K	OU)
+0	13	VF2	FMI3S	637057	ἐξελεῖται	ἐξελειται	εξελειται	ἐξαιρέω			.	E)CELEI=TAI	AI(RE/W          E)K
+0	14	D		9	ὅθεν	ὁθεν	οθεν	ὅθεν				O(/QEN	O(/QEN
+0	14	A1B	NPM	9859	γνώριμοί	γνωριμοι	γνωριμοι	γνώριμος				GNW/RIMOI/	GNW/RIMOS
+0	14	V9	PAI3P	894081	εἰσιν	εἰσιν	εισιν	εἰμί				EI)SIN	EI)MI/
+0	14	D		9	οὐκ	οὐκ	ουκ	οὐ				OU)K	OU)
+0	14	V9	PAPNPM	5055937	ὄντες	ὀντες	οντες	εἰμί				O)/NTES	EI)MI/
+0	14	N2	NPM	9858	θεοί	θεοι	θεοι	θεός			·	QEOI/	QEO/S
+0	14	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	14	X		5	οὖν	οὐν	ουν	οὖν				OU)=N	OU)=N
+0	14	VC	APS2P	903937	φοβηθῆτε	φοβηθητε	φοβηθητε	φοβέω				FOBHQH=TE	FOBE/W
+0	14	RD	APM	11	αὐτούς	αὐτους	αυτους	αὐτός			.	AU)TOU/S	AU)TO/S
+0	15	D		9	Ὥσπερ	ὡσπερ	ωσπερ	ὥσπερ				W(/SPER	W(/SPER
+0	15	X		5	γὰρ	γαρ	γαρ	γάρ				GA\R	GA/R
+0	15	N3E	NSN	17538	σκεῦος	σκευος	σκευος	σκεῦος				SKEU=OS	SKEU=OS
+0	15	N2	GSM	9538	ἀνθρώπου	ἀνθρωπου	ανθρωπου	ἄνθρωπος				A)NQRW/POU	A)/NQRWPOS
+0	15	VD	APPNSN	8997825	συντριβὲν	συντριβεν	συντριβεν	συντρίβω				SUNTRIBE\N	TRI/BW           SUN
+0	15	A1B	NSN	17539	ἀχρεῖον	ἀχρειον	αχρειον	ἀχρεῖος				A)XREI=ON	A)XREI=OS
+0	15	V1	PMI3S	636033	γίνεται	γινεται	γινεται	γίνομαι			,	GI/NETAI	GI/GNOMAI
+0	15	A1	NPM	9859	τοιοῦτοι	τοιουτοι	τοιουτοι	τοιοῦτος				TOIOU=TOI	TOIOU=TOS
+0	15	V1	PAI3P	894081	ὑπάρχουσιν	ὑπαρχουσιν	υπαρχουσιν	ὑπάρχω				U(PA/RXOUSIN	A)/RXW           U(PO
+0	15	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	15	N2	NPM	9858	θεοὶ	θεοι	θεοι	θεός				QEOI\	QEO/S
+0	15	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός			,	AU)TW=N	AU)TO/S
+0	15	VM	XMPGPM	5160385	καθιδρυμένων	καθιδρυμενων	καθιδρυμενων	καθιδρύω				KAQIDRUME/NWN	I(DRU/W          KATA
+0	15	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	15	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	15	RA	DPM	10	τοῖς	τοις	τοις	ὁ				TOI=S	O(
+0	15	N2	DPM	10114	οἴκοις	οἰκοις	οικοις	οἶκος			.	OI)/KOIS	OI)=KOS
+0	16	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	16	N2	NPM	9858	ὀφθαλμοὶ	ὀφθαλμοι	οφθαλμοι	ὀφθαλμός				O)FQALMOI\	O)FQALMO/S
+0	16	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	16	A3H	NPM	9859	πλήρεις	πληρεις	πληρεις	πλήρης				PLH/REIS	PLH/RHS
+0	16	V9	PAI3P	894081	εἰσὶν	εἰσιν	εισιν	εἰμί				EI)SI\N	EI)MI/
+0	16	N2	GSM	9538	κονιορτοῦ	κονιορτου	κονιορτου	κονιορτός				KONIORTOU=	KONIORTO/S
+0	16	P		8	ἀπὸ	ἀπο	απο	ἀπό				A)PO\	A)PO/
+0	16	RA	GPM	10	τῶν	των	των	ὁ				TW=N	O(
+0	16	N3D	GPM	10050	ποδῶν	ποδων	ποδων	πούς				PODW=N	POU/S
+0	16	RA	GPM	10	τῶν	των	των	ὁ				TW=N	O(
+0	16	V1	PMPGPM	5158337	εἰσπορευομένων	εἰσπορευομενων	εισπορευομενων	εἰσπορεύομαι			.	EI)SPOREUOME/NWN	POREU/OMAI       EI)S
+0	17	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	17	D		9	ὥσπερ	ὡσπερ	ωσπερ	ὥσπερ				W(/SPER	W(/SPER
+0	17	RI	DSM	12	τινὶ	τινι	τινι	τις				TINI\	TIS
+0	17	VX	XAPDSM	4926913	ἠδικηκότι	ἠδικηκοτι	ηδικηκοτι	ἀδικέω				H)DIKHKO/TI	A)DIKE/W
+0	17	N3V	ASM	9474	βασιλέα	βασιλεα	βασιλεα	βασιλεύς				BASILE/A	BASILEU/S
+0	17	VK	XMPNPF	7159233	περιπεφραγμέναι	περιπεφραγμεναι	περιπεφραγμεναι	περιφράσσω				PERIPEFRAGME/NAI	FRA/SSW          PERI
+0	17	V9	PAI3P	894081	εἰσὶν	εἰσιν	εισιν	εἰμί				EI)SI\N	EI)MI/
+0	17	RA	NPF	10	αἱ	αἱ	αι	ὁ				AI(	O(
+0	17	N1	NPF	13954	αὐλαὶ	αὐλαι	αυλαι	αὐλή				AU)LAI\	AU)LH/
+0	17	C		4	ὡς	ὡς	ως	ὥς				W(S	W(S
+0	17	P		8	ἐπὶ	ἐπι	επι	ἐπί				E)PI\	E)PI/
+0	17	N2	DSM	9602	θανάτῳ	θανατω	θανατω	θάνατος				QANA/TW|	QA/NATOS
+0	17	VK	XMPDSM	4931009	ἀπηγμένῳ	ἀπηγμενω	απηγμενω	ἀπάγω			,	A)PHGME/NW|	A)/GW            A)PO
+0	17	RA	APM	10	τοὺς	τους	τους	ὁ				TOU\S	O(
+0	17	N2	APM	9986	οἴκους	οἰκους	οικους	οἶκος				OI)/KOUS	OI)=KOS
+0	17	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	17	V4	PAI3P	894081	ὀχυροῦσιν	ὀχυρουσιν	οχυρουσιν	ὀχυρόω				O)XUROU=SIN	O)XURO/W
+0	17	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	17	N3V	NPM	9858	ἱερεῖς	ἱερεις	ιερεις	ἱερεύς				I(EREI=S	I(EREU/S
+0	17	N3M	DPN	18306	θυρώμασίν	θυρωμασιν	θυρωμασιν	θύρωμα				QURW/MASI/N	QU/RWMA
+0	17	X		5	τε	τε	τε	τε				TE	TE
+0	17	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	17	N2N	DPN	18306	κλείθροις	κλειθροις	κλειθροις	κλεῖθρον				KLEI/QROIS	KLEI=QRON
+0	17	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	17	N2	DPM	10114	μοχλοῖς	μοχλοις	μοχλοις	μοχλός			,	MOXLOI=S	MOXLO/S
+0	17	C		4	ὅπως	ὁπως	οπως	ὅπως				O(/PWS	O(/PWS
+0	17	P		8	ὑπὸ	ὑπο	υπο	ὑπό				U(PO\	U(PO/
+0	17	RA	GPM	10	τῶν	των	των	ὁ				TW=N	O(
+0	17	N1M	GPM	10050	λῃστῶν	ληστων	ληστων	λῃστής				LH|STW=N	LH|STH/S
+0	17	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	17	VC	APS3P	903937	συληθῶσι	συληθωσι	συληθωσι	συλάω			.	SULHQW=SI	SULA/W
+0	18	N2	APM	9986	λύχνους	λυχνους	λυχνους	λύχνος				LU/XNOUS	LU/XNOS
+0	18	V1	PAI3P	894081	καίουσιν	καιουσιν	καιουσιν	καίω				KAI/OUSIN	KAI/W
+0	18	D		9	καὶ	και	και	καί				KAI\	KAI/
+0	18	A3C	APM	9987	πλείους	πλειους	πλειους	πλείων				PLEI/OUS	POLU/S
+0	18	C		4	ἢ	ἠ	η	ἤ				H)\	H)/
+0	18	RD	DPM	11	ἑαυτοῖς	ἑαυτοις	εαυτοις	ἑαυτοῦ			,	E(AUTOI=S	E(AUTOU=
+0	18	RR	GPM	14	ὧν	ὡν	ων	ὅς				W(=N	O(/S
+0	18	A3	ASM	9475	οὐδένα	οὐδενα	ουδενα	οὐδείς				OU)DE/NA	OU)DEI/S
+0	18	V6	PMI3P	898177	δύνανται	δυνανται	δυνανται	δύναμαι				DU/NANTAI	DU/NAMAI
+0	18	VB	AAN	306049	ἰδεῖν	ἰδειν	ιδειν	ὁράω			.	I)DEI=N	O(RA/W
+0	19	V9	PAI3S	631937	ἔστιν	ἐστιν	εστιν	εἰμί				E)/STIN	EI)MI/
+0	19	X		5	μὲν	μεν	μεν	μέν				ME\N	ME/N
+0	19	D		9	ὥσπερ	ὡσπερ	ωσπερ	ὥσπερ				W(/SPER	W(/SPER
+0	19	N2	NSF	13442	δοκὸς	δοκος	δοκος	δοκός				DOKO\S	DOKO/S
+0	19	RA	GPF	10	τῶν	των	των	ὁ				TW=N	O(
+0	19	P		8	ἐκ	ἐκ	εκ	ἐκ				E)K	E)K
+0	19	RA	GSF	10	τῆς	της	της	ὁ				TH=S	O(
+0	19	N1A	GSF	13634	οἰκίας	οἰκιας	οικιας	οἰκία			,	OI)KI/AS	OI)KI/A
+0	19	RA	APF	10	τὰς	τας	τας	ὁ				TA\S	O(
+0	19	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	19	N1A	APF	14082	καρδίας	καρδιας	καρδιας	καρδία				KARDI/AS	KARDI/A
+0	19	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	19	V6	PAI3P	894081	φασιν	φασιν	φασιν	φημί				FASIN	FHMI/
+0	19	V1	PPN	312705	ἐκλείχεσθαι	ἐκλειχεσθαι	εκλειχεσθαι	ἐκλείχω			,	E)KLEI/XESQAI	LEI/XW           E)K
+0	19	RA	GPN	10	τῶν	των	των	ὁ				TW=N	O(
+0	19	P		8	ἀπὸ	ἀπο	απο	ἀπό				A)PO\	A)PO/
+0	19	RA	GSF	10	τῆς	της	της	ὁ				TH=S	O(
+0	19	N1	GSF	13634	γῆς	γης	γης	γῆ				GH=S	GH=
+0	19	N2N	GPN	18242	ἑρπετῶν	ἑρπετων	ερπετων	ἑρπετόν				E(RPETW=N	E(RPETO/N
+0	19	V1	PAPGPN	9348545	κατεσθόντων	κατεσθοντων	κατεσθοντων	κατεσθίω				KATESQO/NTWN	E)SQI/W          KATA
+0	19	RD	APM	11	αὐτούς	αὐτους	αυτους	αὐτός				AU)TOU/S	AU)TO/S
+0	19	X		5	τε	τε	τε	τε				TE	TE
+0	19	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	19	RA	ASM	10	τὸν	τον	τον	ὁ				TO\N	O(
+0	19	N2	ASM	9474	ἱματισμὸν	ἱματισμον	ιματισμον	ἱματισμός				I(MATISMO\N	I(MATISMO/S
+0	19	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	19	D		9	οὐκ	οὐκ	ουκ	οὐ				OU)K	OU)
+0	19	V1	PMI3P	898177	αἰσθάνονται	αἰσθανονται	αισθανονται	αἰσθάνομαι			.	AI)SQA/NONTAI	AI)SQA/NOMAI
+0	20	VM	XMPNPM	5062081	μεμελανωμένοι	μεμελανωμενοι	μεμελανωμενοι	μελανόομαι				MEMELANWME/NOI	MELANO/OMAI
+0	20	RA	ASN	10	τὸ	το	το	ὁ				TO\	O(
+0	20	N2N	ASN	17666	πρόσωπον	προσωπον	προσωπον	πρόσωπον				PRO/SWPON	PRO/SWPON
+0	20	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	20	P		8	ἀπὸ	ἀπο	απο	ἀπό				A)PO\	A)PO/
+0	20	RA	GSM	10	τοῦ	του	του	ὁ				TOU=	O(
+0	20	N2	GSM	9538	καπνοῦ	καπνου	καπνου	καπνός				KAPNOU=	KAPNO/S
+0	20	RA	GSM	10	τοῦ	του	του	ὁ				TOU=	O(
+0	20	P		8	ἐκ	ἐκ	εκ	ἐκ				E)K	E)K
+0	20	RA	GSF	10	τῆς	της	της	ὁ				TH=S	O(
+0	20	N1A	GSF	13634	οἰκίας	οἰκιας	οικιας	οἰκία			.	OI)KI/AS	OI)KI/A
+0	21	P		8	ἐπὶ	ἐπι	επι	ἐπί				E)PI\	E)PI/
+0	21	RA	ASN	10	τὸ	το	το	ὁ				TO\	O(
+0	21	N3M	ASN	17666	σῶμα	σωμα	σωμα	σῶμα				SW=MA	SW=MA
+0	21	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	21	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	21	P		8	ἐπὶ	ἐπι	επι	ἐπί				E)PI\	E)PI/
+0	21	RA	ASF	10	τὴν	την	την	ὁ				TH\N	O(
+0	21	N1	ASF	13570	κεφαλὴν	κεφαλην	κεφαλην	κεφαλή				KEFALH\N	KEFALH/
+0	21	V6	PMI3P	898177	ἐφίπτανται	ἐφιπτανται	εφιπτανται	ἐπιπέτομαι				E)FI/PTANTAI	I(/PTAMAI        E)PI
+0	21	N3D	NPF	13954	νυκτερίδες	νυκτεριδες	νυκτεριδες	νυκτερίς			,	NUKTERI/DES	NUKTERI/S
+0	21	N3N	NPF	13954	χελιδόνες	χελιδονες	χελιδονες	χελιδών				XELIDO/NES	XELIDW/N
+0	21	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	21	RA	NPN	10	τὰ	τα	τα	ὁ				TA\	O(
+0	21	N2N	NPN	18050	ὄρνεα	ὀρνεα	ορνεα	ὄρνεον			,	O)/RNEA	O)/RNEON
+0	21	D		9	ὡσαύτως	ὡσαυτως	ωσαυτως	ὡσαύτως				W(SAU/TWS	W(SAU/TWS
+0	21	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	21	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	21	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	21	N2	NPM	9858	αἴλουροι	αἰλουροι	αιλουροι	αἴλουρος			.	AI)/LOUROI	AI)/LOUROS
+0	22	D		9	ὅθεν	ὁθεν	οθεν	ὅθεν				O(/QEN	O(/QEN
+0	22	VF	FMI2P	899201	γνώσεσθε	γνωσεσθε	γνωσεσθε	γινώσκω				GNW/SESQE	GIGNW/SKW
+0	22	C		4	ὅτι	ὁτι	οτι	ὅτι				O(/TI	O(/TI
+0	22	D		9	οὔκ	οὐκ	ουκ	οὐ				OU)/K	OU)
+0	22	V9	PAI3P	894081	εἰσιν	εἰσιν	εισιν	εἰμί				EI)SIN	EI)MI/
+0	22	N2	NPM	9858	θεοί	θεοι	θεοι	θεός			·	QEOI/	QEO/S
+0	22	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	22	X		5	οὖν	οὐν	ουν	οὖν				OU)=N	OU)=N
+0	22	V2	PMD2P	898241	φοβεῖσθε	φοβεισθε	φοβεισθε	φοβέω				FOBEI=SQE	FOBE/W
+0	22	RD	APN	11	αὐτά	αὐτα	αυτα	αὐτός			.	AU)TA/	AU)TO/S
+0	23	RA	ASN	10	Τὸ	το	το	ὁ				TO\	O(
+0	23	X		5	γὰρ	γαρ	γαρ	γάρ				GA\R	GA/R
+0	23	N2N	ASN	17666	χρυσίον	χρυσιον	χρυσιον	χρυσίον			,	XRUSI/ON	XRUSI/ON
+0	23	RR	ASN	14	ὃ	ὁ	ο	ὅς				O(\	O(/S
+0	23	V5	PMI3P	898177	περίκεινται	περικεινται	περικεινται	περίκειμαι				PERI/KEINTAI	KEI=MAI          PERI
+0	23	P		8	εἰς	εἰς	εις	εἰς				EI)S	EI)S
+0	23	N3E	ASN	17666	κάλλος	καλλος	καλλος	κάλλος			,	KA/LLOS	KA/LLOS
+0	23	C		4	ἐὰν	ἐαν	εαν	ἐάν				E)A\N	E)A/N
+0	23	D		9	μή	μη	μη	μή				MH/	MH/
+0	23	RI	NSM	12	τις	τις	τις	τις				TIS	TIS
+0	23	VA	AAS3S	633601	ἐκμάξῃ	ἐκμαξη	εκμαξη	ἐκμάσσω				E)KMA/CH|	MA/SSW           E)K
+0	23	RA	ASM	10	τὸν	τον	τον	ὁ				TO\N	O(
+0	23	N2	ASM	9474	ἰόν	ἰον	ιον	ἰός			,	I)O/N	I)O/S
+0	23	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	23	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	23	VA	AAS3P	895745	στίλψωσιν	στιλψωσιν	στιλψωσιν	στίλβω			·	STI/LYWSIN	STI/LBW
+0	23	C		4	οὐδὲ	οὐδε	ουδε	οὐδέ				OU)DE\	OU)DE/
+0	23	X		5	γάρ	γαρ	γαρ	γάρ			,	GA/R	GA/R
+0	23	D		9	ὅτε	ὁτε	οτε	ὅτε				O(/TE	O(/TE
+0	23	V1I	IPI3P	902785	ἐχωνεύοντο	ἐχωνευοντο	εχωνευοντο	χωνεύω			,	E)XWNEU/ONTO	XWNEU/W
+0	23	V1I	IMI3P	898689	ᾐσθάνοντο	ἠσθανοντο	ησθανοντο	αἰσθάνομαι			.	H)|SQA/NONTO	AI)SQA/NOMAI
+0	24	P		8	ἐκ	ἐκ	εκ	ἐκ				E)K	E)K
+0	24	A1S	GSF	13635	πάσης	πασης	πασης	πᾶς				PA/SHS	PA=S
+0	24	N1	GSF	13634	τιμῆς	τιμης	τιμης	τιμή				TIMH=S	TIMH/
+0	24	VT	XPPNPN	9260481	ἠγορασμένα	ἠγορασμενα	ηγορασμενα	ἀγοράζω				H)GORASME/NA	A)GORA/ZW
+0	24	V9	PAI3S	631937	ἐστίν	ἐστιν	εστιν	εἰμί			,	E)STI/N	EI)MI/
+0	24	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	24	RR	DPN	14	οἷς	οἱς	οις	ὅς				OI(=S	O(/S
+0	24	D		9	οὐκ	οὐκ	ουκ	οὐ				OU)K	OU)
+0	24	V9	PAI3S	631937	ἔστιν	ἐστιν	εστιν	εἰμί				E)/STIN	EI)MI/
+0	24	N3M	NSN	17538	πνεῦμα	πνευμα	πνευμα	πνεῦμα			.	PNEU=MA	PNEU=MA
+0	25	P		8	ἄνευ	ἀνευ	ανευ	ἄνευ				A)/NEU	A)/NEU
+0	25	N3D	GPM	10050	ποδῶν	ποδων	ποδων	πούς				PODW=N	POU/S
+0	25	P		8	ἐπ	ἐπ	επ	ἐπί				E)P'	E)PI/
+0	25	N2	DPM	10114	ὤμοις	ὠμοις	ωμοις	ὦμος				W)/MOIS	W)=MOS
+0	25	V1	PPI3P	902273	φέρονται	φερονται	φερονται	φέρω				FE/RONTAI	FE/RW
+0	25	V5	PMPNPM	5060033	ἐνδεικνύμενοι	ἐνδεικνυμενοι	ενδεικνυμενοι	ἐνδείκνυμι				E)NDEIKNU/MENOI	DEIKNU/W         E)N
+0	25	RA	ASF	10	τὴν	την	την	ὁ				TH\N	O(
+0	25	RD	GPM	11	ἑαυτῶν	ἑαυτων	εαυτων	ἑαυτοῦ				E(AUTW=N	E(AUTOU=
+0	25	N1A	ASF	13570	ἀτιμίαν	ἀτιμιαν	ατιμιαν	ἀτιμία				A)TIMI/AN	A)TIMI/A
+0	25	RA	DPM	10	τοῖς	τοις	τοις	ὁ				TOI=S	O(
+0	25	N2	DPM	10114	ἀνθρώποις	ἀνθρωποις	ανθρωποις	ἄνθρωπος			,	A)NQRW/POIS	A)/NQRWPOS
+0	25	V1	PMI3P	898177	αἰσχύνονταί	αἰσχυνονται	αισχυνονται	αἰσχύνω				AI)SXU/NONTAI/	AI)SXU/NW
+0	25	X		5	τε	τε	τε	τε				TE	TE
+0	25	D		9	καὶ	και	και	καί				KAI\	KAI/
+0	25	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	25	V1	PAPNPM	5055937	θεραπεύοντες	θεραπευοντες	θεραπευοντες	θεραπεύω				QERAPEU/ONTES	QERAPEU/W
+0	25	RD	APN	11	αὐτὰ	αὐτα	αυτα	αὐτός				AU)TA\	AU)TO/S
+0	25	P		8	διὰ	δια	δια	διά				DIA\	DIA/
+0	25	RA	ASN	10	τό	το	το	ὁ			,	TO/	O(
+0	25	D		9	μήποτε	μηποτε	μηποτε	μήποτε				MH/POTE	MH/POTE
+0	25	P		8	ἐπὶ	ἐπι	επι	ἐπί				E)PI\	E)PI/
+0	25	RA	ASF	10	τὴν	την	την	ὁ				TH\N	O(
+0	25	N1	ASF	13570	γῆν	γην	γην	γῆ				GH=N	GH=
+0	25	VA	AAS3S	633601	πέσῃ	πεση	πεση	πίπτω			,	PE/SH|	PI/PTW
+0	25	P		8	δι	δι	δι	διά				DI'	DIA/
+0	25	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	25	V6	PMN	308609	ἀνίστασθαι	ἀνιστασθαι	ανιστασθαι	ἀνίστημι			·	A)NI/STASQAI	I(/STHMI         A)NA
+0	26	C		4	μήτε	μητε	μητε	μήτε				MH/TE	MH/TE
+0	26	C		4	ἐάν	ἐαν	εαν	ἐάν				E)A/N	E)A/N
+0	26	RI	NSM	12	τις	τις	τις	τις				TIS	TIS
+0	26	RD	ASN	11	αὐτὸ	αὐτο	αυτο	αὐτός				AU)TO\	AU)TO/S
+0	26	A1	ASN	17667	ὀρθὸν	ὀρθον	ορθον	ὀρθός				O)RQO\N	O)RQO/S
+0	26	VA	AAS3S	633601	στήσῃ	στηση	στηση	ἵστημι			,	STH/SH|	I(/STHMI
+0	26	P		8	δι	δι	δι	διά				DI'	DIA/
+0	26	RD	GSN	11	ἑαυτοῦ	ἑαυτου	εαυτου	ἑαυτοῦ				E(AUTOU=	E(AUTOU=
+0	26	VC	FPI3S	641153	κινηθήσεται	κινηθησεται	κινηθησεται	κινέω			,	KINHQH/SETAI	KINE/W
+0	26	C		4	μήτε	μητε	μητε	μήτε				MH/TE	MH/TE
+0	26	C		4	ἐὰν	ἐαν	εαν	ἐάν				E)A\N	E)A/N
+0	26	VC	APS3S	641793	κλιθῇ	κλιθη	κλιθη	κλίνω			,	KLIQH=|	KLI/NW
+0	26	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	26	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	26	VC	APS3S	641793	ὀρθωθῇ	ὀρθωθη	ορθωθη	ὀρθόω			,	O)RQWQH=|	O)RQO/W
+0	26	C		4	ἀλλ	ἀλλ	αλλ	ἀλλά				A)LL'	A)LLA/
+0	26	D		9	ὥσπερ	ὡσπερ	ωσπερ	ὥσπερ				W(/SPER	W(/SPER
+0	26	N2	DPM	10114	νεκροῖς	νεκροις	νεκροις	νεκρός				NEKROI=S	NEKRO/S
+0	26	RA	NPN	10	τὰ	τα	τα	ὁ				TA\	O(
+0	26	N2N	NPN	18050	δῶρα	δωρα	δωρα	δῶρον				DW=RA	DW=RON
+0	26	RD	DPN	11	αὐτοῖς	αὐτοις	αυτοις	αὐτός				AU)TOI=S	AU)TO/S
+0	26	V7	PPI3S	640129	παρατίθεται	παρατιθεται	παρατιθεται	παρατίθημι			.	PARATI/QETAI	TI/QHMI          PARA
+0	27	RA	APF	10	τὰς	τας	τας	ὁ				TA\S	O(
+0	27	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	27	N1A	APF	14082	θυσίας	θυσιας	θυσιας	θυσία				QUSI/AS	QUSI/A
+0	27	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	27	VO	AMPNPM	5061569	ἀποδόμενοι	ἀποδομενοι	αποδομενοι	ἀποδίδωμι				A)PODO/MENOI	DI/DWMI          A)PO
+0	27	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	27	N3V	NPM	9858	ἱερεῖς	ἱερεις	ιερεις	ἱερεύς				I(EREI=S	I(EREU/S
+0	27	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	27	V3	PMI3P	898177	καταχρῶνται	καταχρωνται	καταχρωνται	καταχράομαι			·	KATAXRW=NTAI	XRA/OMAI         KATA
+0	27	D		9	ὡσαύτως	ὡσαυτως	ωσαυτως	ὡσαύτως				W(SAU/TWS	W(SAU/TWS
+0	27	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	27	D		9	καὶ	και	και	καί				KAI\	KAI/
+0	27	RA	NPF	10	αἱ	αἱ	αι	ὁ				AI(	O(
+0	27	N3K	NPF	13954	γυναῖκες	γυναικες	γυναικες	γυνή				GUNAI=KES	GUNH/
+0	27	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	27	P		8	ἀπ	ἀπ	απ	ἀπό				A)P'	A)PO/
+0	27	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	27	V1	PAPNPF	7153089	ταριχεύουσαι	ταριχευουσαι	ταριχευουσαι	ταριχεύω				TARIXEU/OUSAI	TARIXEU/W
+0	27	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	27	N2	DSM	9602	πτωχῷ	πτωχω	πτωχω	πτωχός				PTWXW=|	PTWXO/S
+0	27	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	27	A1B	DSM	9603	ἀδυνάτῳ	ἀδυνατω	αδυνατω	ἀδύνατος				A)DUNA/TW|	A)DU/NATOS
+0	27	V8	PAI3P	894081	μεταδιδόασιν	μεταδιδοασιν	μεταδιδοασιν	μεταδίδωμι			·	METADIDO/ASIN	DI/DWMI          META
+0	27	RA	GPF	10	τῶν	των	των	ὁ				TW=N	O(
+0	27	N1A	GPF	14146	θυσιῶν	θυσιων	θυσιων	θυσία				QUSIW=N	QUSI/A
+0	27	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	27	V5	PMPNSF	6895041	ἀποκαθημένη	ἀποκαθημενη	αποκαθημενη	ἀποκάθημαι				A)POKAQHME/NH	H(=MAI           A)PO  KATA
+0	27	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	27	N3	DSF	13698	λεχὼ	λεχω	λεχω	λεχώς				LEXW\	LEXW/S
+0	27	V1	PMI3P	898177	ἅπτονται	ἁπτονται	απτονται	ἅπτομαι			.	A(/PTONTAI	A(/PTOMAI
+0	28	VZ	AAPNPM	5057473	γνόντες	γνοντες	γνοντες	γινώσκω				GNO/NTES	GIGNW/SKW
+0	28	X		5	οὖν	οὐν	ουν	οὖν				OU)=N	OU)=N
+0	28	P		8	ἀπὸ	ἀπο	απο	ἀπό				A)PO\	A)PO/
+0	28	RD	GPN	11	τούτων	τουτων	τουτων	οὗτος				TOU/TWN	OU(=TOS
+0	28	C		4	ὅτι	ὁτι	οτι	ὅτι				O(/TI	O(/TI
+0	28	D		9	οὔκ	οὐκ	ουκ	οὐ				OU)/K	OU)
+0	28	V9	PAI3P	894081	εἰσιν	εἰσιν	εισιν	εἰμί				EI)SIN	EI)MI/
+0	28	N2	NPM	9858	θεοί	θεοι	θεοι	θεός			,	QEOI/	QEO/S
+0	28	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	28	VC	APS2P	903937	φοβηθῆτε	φοβηθητε	φοβηθητε	φοβέω				FOBHQH=TE	FOBE/W
+0	28	RD	APM	11	αὐτούς	αὐτους	αυτους	αὐτός			.	AU)TOU/S	AU)TO/S
+0	29	D		9	Πόθεν	ποθεν	ποθεν	πόθεν				PO/QEN	PO/QEN
+0	29	X		5	γὰρ	γαρ	γαρ	γάρ				GA\R	GA/R
+0	29	VC	APO3P	904001	κληθείησαν	κληθειησαν	κληθειησαν	καλέω				KLHQEI/HSAN	KALE/W
+0	29	N2	NPM	9858	θεοί	θεοι	θεοι	θεός			;	QEOI/	QEO/S
+0	29	C		4	ὅτι	ὁτι	οτι	ὅτι				O(/TI	O(/TI
+0	29	N3K	NPF	13954	γυναῖκες	γυναικες	γυναικες	γυνή				GUNAI=KES	GUNH/
+0	29	V7	PAI3P	894081	παρατιθέασιν	παρατιθεασιν	παρατιθεασιν	παρατίθημι				PARATIQE/ASIN	TI/QHMI          PARA
+0	29	N2	DPM	10114	θεοῖς	θεοις	θεοις	θεός				QEOI=S	QEO/S
+0	29	A1C	DPM	10115	ἀργυροῖς	ἀργυροις	αργυροις	ἀργύρεος				A)RGUROI=S	A)RGUROU=S
+0	29	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	29	A1C	DPM	10115	χρυσοῖς	χρυσοις	χρυσοις	χρύσεος				XRUSOI=S	XRUSOU=S
+0	29	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	29	A1	DPM	10115	ξυλίνοις	ξυλινοις	ξυλινοις	ξύλινος			·	CULI/NOIS	CU/LINOS
+0	30	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	30	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	30	RA	DPM	10	τοῖς	τοις	τοις	ὁ				TOI=S	O(
+0	30	N2	DPM	10114	οἴκοις	οἰκοις	οικοις	οἶκος				OI)/KOIS	OI)=KOS
+0	30	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	30	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	30	N3V	NPM	9858	ἱερεῖς	ἱερεις	ιερεις	ἱερεύς				I(EREI=S	I(EREU/S
+0	30	V1	PAI3P	894081	διφρεύουσιν	διφρευουσιν	διφρευουσιν	διφρεύω				DIFREU/OUSIN	DIFREU/W
+0	30	V1	PAPNPM	5055937	ἔχοντες	ἐχοντες	εχοντες	ἔχω				E)/XONTES	E)/XW
+0	30	RA	APM	10	τοὺς	τους	τους	ὁ				TOU\S	O(
+0	30	N3W	APM	9986	χιτῶνας	χιτωνας	χιτωνας	χιτών				XITW=NAS	XITW/N
+0	30	VXI	XAPAPM	5123521	διερρωγότας	διερρωγοτας	διερρωγοτας	διαρρήγνυμι				DIERRWGO/TAS	R(H/GNUMI        DIA
+0	30	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	30	RA	APF	10	τὰς	τας	τας	ὁ				TA\S	O(
+0	30	N1	APF	14082	κεφαλὰς	κεφαλας	κεφαλας	κεφαλή				KEFALA\S	KEFALH/
+0	30	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	30	RA	APM	10	τοὺς	τους	τους	ὁ				TOU\S	O(
+0	30	N3W	APM	9986	πώγωνας	πωγωνας	πωγωνας	πώγων				PW/GWNAS	PW/GWN
+0	30	VM	XPPAPM	5131713	ἐξυρημένους	ἐξυρημενους	εξυρημενους	ξυράω			,	E)CURHME/NOUS	CURA/W
+0	30	RR	GPM	14	ὧν	ὡν	ων	ὅς				W(=N	O(/S
+0	30	RA	NPF	10	αἱ	αἱ	αι	ὁ				AI(	O(
+0	30	N1	NPF	13954	κεφαλαὶ	κεφαλαι	κεφαλαι	κεφαλή				KEFALAI\	KEFALH/
+0	30	A1B	NPF	13955	ἀκάλυπτοί	ἀκαλυπτοι	ακαλυπτοι	ἀκάλυπτος				A)KA/LUPTOI/	A)KA/LUPTOS
+0	30	V9	PAI3P	894081	εἰσιν	εἰσιν	εισιν	εἰμί			,	EI)SIN	EI)MI/
+0	31	V1	PMI3P	898177	ὠρύονται	ὠρυονται	ωρυονται	ὠρύομαι				W)RU/ONTAI	W)RU/OMAI
+0	31	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	31	V3	PAPNPM	5055937	βοῶντες	βοωντες	βοωντες	βοάω				BOW=NTES	BOA/W
+0	31	P		8	ἐναντίον	ἐναντιον	εναντιον	ἐναντίον				E)NANTI/ON	E)NANTI/ON
+0	31	RA	GPM	10	τῶν	των	των	ὁ				TW=N	O(
+0	31	N2	GPM	10050	θεῶν	θεων	θεων	θεός				QEW=N	QEO/S
+0	31	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	31	D		9	ὥσπερ	ὡσπερ	ωσπερ	ὥσπερ				W(/SPER	W(/SPER
+0	31	RI	NPM	12	τινὲς	τινες	τινες	τις				TINE\S	TIS
+0	31	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	31	N2N	DSN	17794	περιδείπνῳ	περιδειπνω	περιδειπνω	περίδειπνον				PERIDEI/PNW|	PERI/DEIPNON
+0	31	N2	GSM	9538	νεκροῦ	νεκρου	νεκρου	νεκρός			.	NEKROU=	NEKRO/S
+0	32	P		8	ἀπὸ	ἀπο	απο	ἀπό				A)PO\	A)PO/
+0	32	RA	GSM	10	τοῦ	του	του	ὁ				TOU=	O(
+0	32	N2	GSM	9538	ἱματισμοῦ	ἱματισμου	ιματισμου	ἱματισμός				I(MATISMOU=	I(MATISMO/S
+0	32	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	32	VB	AMPNPM	5061569	ἀφελόμενοι	ἀφελομενοι	αφελομενοι	ἀφαιρέω				A)FELO/MENOI	AI(RE/W          A)PO
+0	32	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	32	N3V	NPM	9858	ἱερεῖς	ἱερεις	ιερεις	ἱερεύς				I(EREI=S	I(EREU/S
+0	32	V1	PAI3P	894081	ἐνδύουσιν	ἐνδυουσιν	ενδυουσιν	ἐνδύω				E)NDU/OUSIN	DU/W             E)N
+0	32	RA	APF	10	τὰς	τας	τας	ὁ				TA\S	O(
+0	32	N3K	APF	14082	γυναῖκας	γυναικας	γυναικας	γυνή				GUNAI=KAS	GUNH/
+0	32	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	32	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	32	RA	APN	10	τὰ	τα	τα	ὁ				TA\	O(
+0	32	N2N	APN	18178	παιδία	παιδια	παιδια	παιδίον			.	PAIDI/A	PAIDI/ON
+0	33	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	33	C		4	ἐὰν	ἐαν	εαν	ἐάν				E)A\N	E)A/N
+0	33	A1	ASN	17667	κακὸν	κακον	κακον	κακός				KAKO\N	KAKO/S
+0	33	VB	AAS3P	895745	πάθωσιν	παθωσιν	παθωσιν	πάσχω				PA/QWSIN	PA/SXW
+0	33	P		8	ὑπό	ὑπο	υπο	ὑπό				U(PO/	U(PO/
+0	33	RI	GSM	12	τινος	τινος	τινος	τις				TINOS	TIS
+0	33	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	33	C		4	ἐὰν	ἐαν	εαν	ἐάν				E)A\N	E)A/N
+0	33	A1	ASN	17667	ἀγαθόν	ἀγαθον	αγαθον	ἀγαθός			,	A)GAQO/N	A)GAQO/S
+0	33	VF	FMI3P	899201	δυνήσονται	δυνησονται	δυνησονται	δύναμαι				DUNH/SONTAI	DU/NAMAI
+0	33	VO	AAN	306049	ἀνταποδοῦναι	ἀνταποδουναι	ανταποδουναι	ἀνταποδίδωμι			·	A)NTAPODOU=NAI	DI/DWMI          A)NTI A)PO
+0	33	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	33	VA	AAN	306049	καταστῆσαι	καταστησαι	καταστησαι	καθίστημι				KATASTH=SAI	I(/STHMI         KATA
+0	33	N3V	ASM	9474	βασιλέα	βασιλεα	βασιλεα	βασιλεύς				BASILE/A	BASILEU/S
+0	33	V6	PMI3P	898177	δύνανται	δυνανται	δυνανται	δύναμαι				DU/NANTAI	DU/NAMAI
+0	33	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	33	VB	AMN	310145	ἀφελέσθαι	ἀφελεσθαι	αφελεσθαι	ἀφαιρέω			.	A)FELE/SQAI	AI(RE/W          A)PO
+0	34	D		9	ὡσαύτως	ὡσαυτως	ωσαυτως	ὡσαύτως				W(SAU/TWS	W(SAU/TWS
+0	34	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	34	N2	ASM	9474	πλοῦτον	πλουτον	πλουτον	πλοῦτος				PLOU=TON	PLOU=TOS
+0	34	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	34	N2	ASM	9474	χαλκὸν	χαλκον	χαλκον	χαλκός				XALKO\N	XALKO/S
+0	34	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	34	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	34	V6	PMS3P	898305	δύνωνται	δυνωνται	δυνωνται	δύναμαι				DU/NWNTAI	DU/NAMAI
+0	34	V8	PAN	304513	διδόναι	διδοναι	διδοναι	δίδωμι			·	DIDO/NAI	DI/DWMI
+0	34	C		4	ἐάν	ἐαν	εαν	ἐάν				E)A/N	E)A/N
+0	34	RI	NSM	12	τις	τις	τις	τις				TIS	TIS
+0	34	RD	DPM	11	αὐτοῖς	αὐτοις	αυτοις	αὐτός				AU)TOI=S	AU)TO/S
+0	34	N1	ASF	13570	εὐχὴν	εὐχην	ευχην	εὐχή				EU)XH\N	EU)XH/
+0	34	VA	AMPNSM	4799425	εὐξάμενος	εὐξαμενος	ευξαμενος	εὔχομαι				EU)CA/MENOS	EU)/XOMAI
+0	34	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	34	VO	AAS3S	633601	ἀποδῷ	ἀποδω	αποδω	ἀποδίδωμι			,	A)PODW=|	DI/DWMI          A)PO
+0	34	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	34	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	34	VA	AAS3P	895745	ἐπιζητήσωσιν	ἐπιζητησωσιν	επιζητησωσιν	ἐπιζητέω			.	E)PIZHTH/SWSIN	ZHTE/W           E)PI
+0	35	P		8	ἐκ	ἐκ	εκ	ἐκ				E)K	E)K
+0	35	N2	GSM	9538	θανάτου	θανατου	θανατου	θάνατος				QANA/TOU	QA/NATOS
+0	35	N2	ASM	9474	ἄνθρωπον	ἀνθρωπον	ανθρωπον	ἄνθρωπος				A)/NQRWPON	A)/NQRWPOS
+0	35	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	35	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	35	VA	AMS3P	899841	ῥύσωνται	ῥυσωνται	ρυσωνται	ῥύομαι				R(U/SWNTAI	R(U/OMAI
+0	35	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	35	A3C	ASM	9475	ἥττονα	ἡττονα	ηττονα	ἥττον				H(/TTONA	H(/SSWN
+0	35	P		8	ἀπὸ	ἀπο	απο	ἀπό				A)PO\	A)PO/
+0	35	A1A	GSM	9539	ἰσχυροῦ	ἰσχυρου	ισχυρου	ἰσχυρός				I)SXUROU=	I)SXURO/S
+0	35	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	35	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	35	VB	AMS3P	899841	ἐξέλωνται	ἐξελωνται	εξελωνται	ἐξαιρέω			.	E)CE/LWNTAI	AI(RE/W          E)K
+0	36	N2	ASM	9474	ἄνθρωπον	ἀνθρωπον	ανθρωπον	ἄνθρωπος				A)/NQRWPON	A)/NQRWPOS
+0	36	A1	ASM	9475	τυφλὸν	τυφλον	τυφλον	τυφλός				TUFLO\N	TUFLO/S
+0	36	P		8	εἰς	εἰς	εις	εἰς				EI)S	EI)S
+0	36	N3I	ASF	13570	ὅρασιν	ὁρασιν	ορασιν	ὅρασις				O(/RASIN	O(/RASIS
+0	36	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	36	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	36	VA	AAS3P	895745	περιστήσωσιν	περιστησωσιν	περιστησωσιν	περιΐστημι			,	PERISTH/SWSIN	I(/STHMI         PERI
+0	36	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	36	N1	DSF	13698	ἀνάγκῃ	ἀναγκη	αναγκη	ἀνάγκη				A)NA/GKH|	A)NA/GKH
+0	36	N2	ASM	9474	ἄνθρωπον	ἀνθρωπον	ανθρωπον	ἄνθρωπος				A)/NQRWPON	A)/NQRWPOS
+0	36	V9	PAPASM	4859329	ὄντα	ὀντα	οντα	εἰμί				O)/NTA	EI)MI/
+0	36	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	36	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	36	VB	AMS3P	899841	ἐξέλωνται	ἐξελωνται	εξελωνται	ἐξαιρέω			.	E)CE/LWNTAI	AI(RE/W          E)K
+0	37	N1A	ASF	13570	χήραν	χηραν	χηραν	χήρα				XH/RAN	XH/RA
+0	37	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	37	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	37	VA	AAS3P	895745	ἐλεήσωσιν	ἐλεησωσιν	ελεησωσιν	ἐλεέω				E)LEH/SWSIN	E)LEE/W
+0	37	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	37	A1	ASM	9475	ὀρφανὸν	ὀρφανον	ορφανον	ὀρφανός				O)RFANO\N	O)RFANO/S
+0	37	D		9	εὖ	εὐ	ευ	εὖ				EU)=	EU)=
+0	37	VF	FAI3P	895105	ποιήσουσιν	ποιησουσιν	ποιησουσιν	ποιέω			.	POIH/SOUSIN	POIE/W
+0	38	RA	DPM	10	τοῖς	τοις	τοις	ὁ				TOI=S	O(
+0	38	P		8	ἀπὸ	ἀπο	απο	ἀπό				A)PO\	A)PO/
+0	38	RA	GSN	10	τοῦ	του	του	ὁ				TOU=	O(
+0	38	N3E	GSN	17730	ὄρους	ὀρους	ορους	ὄρος				O)/ROUS	O)/ROS
+0	38	N2	DPM	10114	λίθοις	λιθοις	λιθοις	λίθος				LI/QOIS	LI/QOS
+0	38	VM	XMPNPM	5062081	ὡμοιωμένοι	ὡμοιωμενοι	ωμοιωμενοι	ὁμοιόω				W(MOIWME/NOI	O(MOIO/W
+0	38	V9	PAI3P	894081	εἰσὶν	εἰσιν	εισιν	εἰμί				EI)SI\N	EI)MI/
+0	38	RA	NPN	10	τὰ	τα	τα	ὁ				TA\	O(
+0	38	A1	NPN	18051	ξύλινα	ξυλινα	ξυλινα	ξύλινος				CU/LINA	CU/LINOS
+0	38	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	38	RA	NPN	10	τὰ	τα	τα	ὁ				TA\	O(
+0	38	A1B	NPN	18051	περίχρυσα	περιχρυσα	περιχρυσα	περίχρυσος				PERI/XRUSA	PERI/XRUSOS
+0	38	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	38	RA	NPN	10	τὰ	τα	τα	ὁ				TA\	O(
+0	38	A1B	NPN	18051	περιάργυρα	περιαργυρα	περιαργυρα	περιάργυρος			,	PERIA/RGURA	PERIA/RGUROS
+0	38	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	38	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	38	V1	PAPNPM	5055937	θεραπεύοντες	θεραπευοντες	θεραπευοντες	θεραπεύω				QERAPEU/ONTES	QERAPEU/W
+0	38	RD	APN	11	αὐτὰ	αὐτα	αυτα	αὐτός				AU)TA\	AU)TO/S
+0	38	VC	FPI3P	903297	καταισχυνθήσονται	καταισχυνθησονται	καταισχυνθησονται	καταισχύνω			.	KATAISXUNQH/SONTAI	AI)SXU/NW        KATA
+0	39	D		9	πῶς	πως	πως	πῶς				PW=S	PW=S
+0	39	X		5	οὖν	οὐν	ουν	οὖν				OU)=N	OU)=N
+0	39	A1A	NSN	17539	νομιστέον	νομιστεον	νομιστεον	νομιστέον				NOMISTE/ON	NOMISTE/ON
+0	39	C		4	ἢ	ἠ	η	ἤ				H)\	H)/
+0	39	A1A	NSN	17539	κλητέον	κλητεον	κλητεον	κλητέος				KLHTE/ON	KLHTE/OS
+0	39	RD	APM	11	αὐτοὺς	αὐτους	αυτους	αὐτός				AU)TOU\S	AU)TO/S
+0	39	V1	PAN	304513	ὑπάρχειν	ὑπαρχειν	υπαρχειν	ὑπάρχω				U(PA/RXEIN	A)/RXW           U(PO
+0	39	N2	APM	9986	θεούς	θεους	θεους	θεός			;	QEOU/S	QEO/S
+0	40	D		9	Ἔτι	ἐτι	ετι	ἔτι				E)/TI	E)/TI
+0	40	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	40	D		9	καὶ	και	και	καί				KAI\	KAI/
+0	40	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	40	RA	GPM	10	τῶν	των	των	ὁ				TW=N	O(
+0	40	N2	GPM	10050	Χαλδαίων	χαλδαιων	χαλδαιων	Χαλδαῖος				*XALDAI/WN	*XALDAI=OS
+0	40	V1	PAPGPM	5154241	ἀτιμαζόντων	ἀτιμαζοντων	ατιμαζοντων	ἀτιμάζω				A)TIMAZO/NTWN	A)TIMA/ZW
+0	40	RD	APN	11	αὐτά	αὐτα	αυτα	αὐτός			,	AU)TA/	AU)TO/S
+0	40	RR	NPM	14	οἵ	οἱ	οι	ὅς			,	OI(/	O(/S
+0	40	D		9	ὅταν	ὁταν	οταν	ὅταν				O(/TAN	O(/TAN
+0	40	VB	AAS3P	895745	ἴδωσιν	ἰδωσιν	ιδωσιν	ὁράω				I)/DWSIN	O(RA/W
+0	40	A1A	ASM	9475	ἐνεὸν	ἐνεον	ενεον	ἐννεός				E)NEO\N	E)NEO/S
+0	40	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	40	V6	PMPASM	4863425	δυνάμενον	δυναμενον	δυναμενον	δύναμαι				DUNA/MENON	DU/NAMAI
+0	40	VA	AAN	306049	λαλῆσαι	λαλησαι	λαλησαι	λαλέω			,	LALH=SAI	LALE/W
+0	40	VA	AMPNPM	5061569	προσενεγκάμενοι	προσενεγκαμενοι	προσενεγκαμενοι	προσφέρω				PROSENEGKA/MENOI	FE/RW            PROS
+0	40	RA	ASM	10	τὸν	τον	τον	ὁ				TO\N	O(
+0	40	N2	ASM	9474	Βῆλον	βηλον	βηλον	Βῆλος				*BH=LON	*BH=LOS
+0	40	V4	PAI3P	894081	ἀξιοῦσιν	ἀξιουσιν	αξιουσιν	ἀξιόω				A)CIOU=SIN	A)CIO/W
+0	40	VA	AAN	306049	φωνῆσαι	φωνησαι	φωνησαι	φωνέω			,	FWNH=SAI	FWNE/W
+0	40	C		4	ὡς	ὡς	ως	ὥς				W(S	W(S
+0	40	A1	GSM	9539	δυνατοῦ	δυνατου	δυνατου	δυνατός				DUNATOU=	DUNATO/S
+0	40	V9	PAPGSM	4892097	ὄντος	ὀντος	οντος	εἰμί				O)/NTOS	EI)MI/
+0	40	RD	GSM	11	αὐτοῦ	αὐτου	αυτου	αὐτός				AU)TOU=	AU)TO/S
+0	40	VB	AMN	310145	αἰσθέσθαι	αἰσθεσθαι	αισθεσθαι	αἰσθάνομαι			,	AI)SQE/SQAI	AI)SQA/NOMAI
+0	41	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	41	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	41	V6	PMI3P	898177	δύνανται	δυνανται	δυνανται	δύναμαι				DU/NANTAI	DU/NAMAI
+0	41	RD	NPM	11	αὐτοὶ	αὐτοι	αυτοι	αὐτός				AU)TOI\	AU)TO/S
+0	41	VA	AAPNPM	5057473	νοήσαντες	νοησαντες	νοησαντες	νοέω				NOH/SANTES	NOE/W
+0	41	VB	AAN	306049	καταλιπεῖν	καταλιπειν	καταλιπειν	καταλείπω				KATALIPEI=N	LEI/PW           KATA
+0	41	RD	APN	11	αὐτά	αὐτα	αυτα	αὐτός			,	AU)TA/	AU)TO/S
+0	41	N3I	ASF	13570	αἴσθησιν	αἰσθησιν	αισθησιν	αἴσθησις				AI)/SQHSIN	AI)/SQHSIS
+0	41	X		5	γὰρ	γαρ	γαρ	γάρ				GA\R	GA/R
+0	41	D		9	οὐκ	οὐκ	ουκ	οὐ				OU)K	OU)
+0	41	V1	PAI3P	894081	ἔχουσιν	ἐχουσιν	εχουσιν	ἔχω			.	E)/XOUSIN	E)/XW
+0	42	RA	NPF	10	αἱ	αἱ	αι	ὁ				AI(	O(
+0	42	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	42	N3K	NPF	13954	γυναῖκες	γυναικες	γυναικες	γυνή				GUNAI=KES	GUNH/
+0	42	VE	AMPNPF	7158721	περιθέμεναι	περιθεμεναι	περιθεμεναι	περιτίθημι				PERIQE/MENAI	TI/QHMI          PERI
+0	42	N2N	APN	18178	σχοινία	σχοινια	σχοινια	σχοινίον				SXOINI/A	SXOINI/ON
+0	42	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	42	RA	DPF	10	ταῖς	ταις	ταις	ὁ				TAI=S	O(
+0	42	N2	DPF	14210	ὁδοῖς	ὁδοις	οδοις	ὁδός				O(DOI=S	O(DO/S
+0	42	V5	PMI3P	898177	ἐγκάθηνται	ἐγκαθηνται	εγκαθηνται	ἐγκάθημαι				E)GKA/QHNTAI	H(=MAI           E)N   KATA
+0	42	V3	PAPNPF	7153089	θυμιῶσαι	θυμιωσαι	θυμιωσαι	θυμιάω				QUMIW=SAI	QUMIA/W
+0	42	RA	APN	10	τὰ	τα	τα	ὁ				TA\	O(
+0	42	N2N	APN	18178	πίτυρα	πιτυρα	πιτυρα	πίτυρον			·	PI/TURA	PI/TURON
+0	43	D		9	ὅταν	ὁταν	οταν	ὅταν				O(/TAN	O(/TAN
+0	43	X		5	δέ	δε	δε	δέ				DE/	DE/
+0	43	RI	NSF	12	τις	τις	τις	τις				TIS	TIS
+0	43	RD	GPF	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	43	VS	APPNSF	6900673	ἐφελκυσθεῖσα	ἐφελκυσθεισα	εφελκυσθεισα	ἐφέλκω				E)FELKUSQEI=SA	E(LKU/W          E)PI
+0	43	P		8	ὑπό	ὑπο	υπο	ὑπό				U(PO/	U(PO/
+0	43	RI	GSM	12	τινος	τινος	τινος	τις				TINOS	TIS
+0	43	RA	GPM	10	τῶν	των	των	ὁ				TW=N	O(
+0	43	V1	PMPGPM	5158337	παραπορευομένων	παραπορευομενων	παραπορευομενων	παραπορεύομαι				PARAPOREUOME/NWN	POREU/OMAI       PARA
+0	43	VC	APS3S	641793	κοιμηθῇ	κοιμηθη	κοιμηθη	κοιμάω			,	KOIMHQH=|	KOIMA/W
+0	43	RA	ASF	10	τὴν	την	την	ὁ				TH\N	O(
+0	43	D		9	πλησίον	πλησιον	πλησιον	πλησίον				PLHSI/ON	PLHSI/ON
+0	43	V1	PAI3S	631937	ὀνειδίζει	ὀνειδιζει	ονειδιζει	ὀνειδίζω			,	O)NEIDI/ZEI	O)NEIDI/ZW
+0	43	C		4	ὅτι	ὁτι	οτι	ὅτι				O(/TI	O(/TI
+0	43	D		9	οὐκ	οὐκ	ουκ	οὐ				OU)K	OU)
+0	43	VM	XMI3S	638081	ἠξίωται	ἠξιωται	ηξιωται	ἀξιόω				H)CI/WTAI	A)CIO/W
+0	43	D		9	ὥσπερ	ὡσπερ	ωσπερ	ὥσπερ				W(/SPER	W(/SPER
+0	43	D		9	καὶ	και	και	καί				KAI\	KAI/
+0	43	RD	NSF	11	αὐτὴ	αὐτη	αυτη	αὐτός				AU)TH\	AU)TO/S
+0	43	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	43	RA	NSN	10	τὸ	το	το	ὁ				TO\	O(
+0	43	N2	NSN	17538	σχοινίον	σχοινιον	σχοινιον	σχοινίον				SXOINI/ON	SXOINI/ON
+0	43	RD	GSF	11	αὐτῆς	αὐτης	αυτης	αὐτός				AU)TH=S	AU)TO/S
+0	43	VDI	API3S	641665	διερράγη	διερραγη	διερραγη	διαρρήγνυμι			.	DIERRA/GH	R(H/GNUMI        DIA
+0	44	A3	NPN	18051	πάντα	παντα	παντα	πᾶς				PA/NTA	PA=S
+0	44	RA	NPN	10	τὰ	τα	τα	ὁ				TA\	O(
+0	44	V1	PMPNPN	9254337	γινόμενα	γινομενα	γινομενα	γίνομαι				GINO/MENA	GI/GNOMAI
+0	44	RD	DPM	11	αὐτοῖς	αὐτοις	αυτοις	αὐτός				AU)TOI=S	AU)TO/S
+0	44	V9	PAI3S	631937	ἐστιν	ἐστιν	εστιν	εἰμί				E)STIN	EI)MI/
+0	44	A3H	NPN	18051	ψευδῆ	ψευδη	ψευδη	ψευδής			·	YEUDH=	YEUDH/S
+0	44	D		9	πῶς	πως	πως	πῶς				PW=S	PW=S
+0	44	X		5	οὖν	οὐν	ουν	οὖν				OU)=N	OU)=N
+0	44	A1A	NSN	17539	νομιστέον	νομιστεον	νομιστεον	νομιστέον				NOMISTE/ON	NOMISTE/ON
+0	44	C		4	ἢ	ἠ	η	ἤ				H)\	H)/
+0	44	A1A	NSN	17539	κλητέον	κλητεον	κλητεον	κλητέος				KLHTE/ON	KLHTE/OS
+0	44	C		4	ὥστε	ὡστε	ωστε	ὥστε				W(/STE	W(/STE
+0	44	N2	APM	9986	θεοὺς	θεους	θεους	θεός				QEOU\S	QEO/S
+0	44	RD	APM	11	αὐτοὺς	αὐτους	αυτους	αὐτός				AU)TOU\S	AU)TO/S
+0	44	V1	PAN	304513	ὑπάρχειν	ὑπαρχειν	υπαρχειν	ὑπάρχω			;	U(PA/RXEIN	A)/RXW           U(PO
+0	45	P		8	Ὑπὸ	ὑπο	υπο	ὑπό				U(PO\	U(PO/
+0	45	N3N	GPM	10050	τεκτόνων	τεκτονων	τεκτονων	τέκτων				TEKTO/NWN	TE/KTWN
+0	45	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	45	N2	GPM	10050	χρυσοχόων	χρυσοχοων	χρυσοχοων	χρυσοχόος				XRUSOXO/WN	XRUSOXO/OS
+0	45	VT	XPPNPN	9260481	κατεσκευασμένα	κατεσκευασμενα	κατεσκευασμενα	κατασκευάζω				KATESKEUASME/NA	SKEUA/ZW         KATA
+0	45	V9	PAI3P	894081	εἰσίν	εἰσιν	εισιν	εἰμί			·	EI)SI/N	EI)MI/
+0	45	A3	ASN	17667	οὐθὲν	οὐθεν	ουθεν	οὐδείς				OU)QE\N	OU)DEI/S
+0	45	RD	ASN	11	ἄλλο	ἀλλο	αλλο	ἄλλος				A)/LLO	A)/LLOS
+0	45	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	45	VB	AMS3P	899841	γένωνται	γενωνται	γενωνται	γίνομαι				GE/NWNTAI	GI/GNOMAI
+0	45	C		4	ἢ	ἠ	η	ἤ				H)\	H)/
+0	45	RR	ASN	14	ὃ	ὁ	ο	ὅς				O(\	O(/S
+0	45	V1	PMI3P	898177	βούλονται	βουλονται	βουλονται	βούλομαι				BOU/LONTAI	BOU/LOMAI
+0	45	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	45	N1M	NPM	9858	τεχνῖται	τεχνιται	τεχνιται	τεχνίτης				TEXNI=TAI	TEXNI/THS
+0	45	RD	APN	11	αὐτὰ	αὐτα	αυτα	αὐτός				AU)TA\	AU)TO/S
+0	45	VB	AMN	310145	γενέσθαι	γενεσθαι	γενεσθαι	γίνομαι			.	GENE/SQAI	GI/GNOMAI
+0	46	RD	NPM	11	αὐτοί	αὐτοι	αυτοι	αὐτός				AU)TOI/	AU)TO/S
+0	46	X		5	τε	τε	τε	τε				TE	TE
+0	46	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	46	V1	PAPNPM	5055937	κατασκευάζοντες	κατασκευαζοντες	κατασκευαζοντες	κατασκευάζω				KATASKEUA/ZONTES	SKEUA/ZW         KATA
+0	46	RD	APN	11	αὐτὰ	αὐτα	αυτα	αὐτός				AU)TA\	AU)TO/S
+0	46	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	46	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	46	VB	AMS3P	899841	γένωνται	γενωνται	γενωνται	γίνομαι				GE/NWNTAI	GI/GNOMAI
+0	46	A1B	NPM	9859	πολυχρόνιοι	πολυχρονιοι	πολυχρονιοι	πολυχρόνιος			·	POLUXRO/NIOI	POLUXRO/NIOS
+0	46	D		9	πῶς	πως	πως	πῶς				PW=S	PW=S
+0	46	X		5	τε	τε	τε	τε				TE	TE
+0	46	X		5	δὴ	δη	δη	δή				DH\	DH/
+0	46	V1	PAI3S	631937	μέλλει	μελλει	μελλει	μέλλω				ME/LLEI	ME/LLW
+0	46	RA	NPN	10	τὰ	τα	τα	ὁ				TA\	O(
+0	46	P		8	ὑπ	ὑπ	υπ	ὑπό				U(P'	U(PO/
+0	46	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	46	VS	APPNPN	9259969	κατασκευασθέντα	κατασκευασθεντα	κατασκευασθεντα	κατασκευάζω				KATASKEUASQE/NTA	SKEUA/ZW         KATA
+0	46	V9	PAN	304513	εἶναι	εἰναι	ειναι	εἰμί				EI)=NAI	EI)MI/
+0	46	N2	NPM	9858	θεοί	θεοι	θεοι	θεός			;	QEOI/	QEO/S
+0	47	VBI	AAI3P	895617	κατέλιπον	κατελιπον	κατελιπον	καταλείπω				KATE/LIPON	LEI/PW           KATA
+0	47	X		5	γὰρ	γαρ	γαρ	γάρ				GA\R	GA/R
+0	47	A3H	APN	18179	ψεύδη	ψευδη	ψευδη	ψευδής				YEU/DH	YEUDH/S
+0	47	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	47	N3E	ASN	17666	ὄνειδος	ὀνειδος	ονειδος	ὄνειδος				O)/NEIDOS	O)/NEIDOS
+0	47	RA	DPM	10	τοῖς	τοις	τοις	ὁ				TOI=S	O(
+0	47	V1	PMPDPM	5191105	ἐπιγινομένοις	ἐπιγινομενοις	επιγινομενοις	ἐπιγίνομαι			.	E)PIGINOME/NOIS	GI/GNOMAI        E)PI
+0	48	D		9	ὅταν	ὁταν	οταν	ὅταν				O(/TAN	O(/TAN
+0	48	X		5	γὰρ	γαρ	γαρ	γάρ				GA\R	GA/R
+0	48	VB	AAS3S	633601	ἐπέλθῃ	ἐπελθη	επελθη	ἐπέρχομαι				E)PE/LQH|	E)/RXOMAI        E)PI
+0	48	P		8	ἐπ	ἐπ	επ	ἐπί				E)P'	E)PI/
+0	48	RD	APN	11	αὐτὰ	αὐτα	αυτα	αὐτός				AU)TA\	AU)TO/S
+0	48	N2	NSM	9346	πόλεμος	πολεμος	πολεμος	πόλεμος				PO/LEMOS	PO/LEMOS
+0	48	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	48	A1	NPN	18051	κακά	κακα	κακα	κακός			,	KAKA/	KAKO/S
+0	48	V1	PMI3P	898177	βουλεύονται	βουλευονται	βουλευονται	βουλεύω				BOULEU/ONTAI	BOULEU/W
+0	48	P		8	πρὸς	προς	προς	πρός				PRO\S	PRO/S
+0	48	RD	APM	11	ἑαυτοὺς	ἑαυτους	εαυτους	ἑαυτοῦ				E(AUTOU\S	E(AUTOU=
+0	48	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	48	N3V	NPM	9858	ἱερεῖς	ἱερεις	ιερεις	ἱερεύς				I(EREI=S	I(EREU/S
+0	48	D		9	ποῦ	που	που	ποῦ				POU=	POU=
+0	48	VD	APS3P	903937	συναποκρυβῶσι	συναποκρυβωσι	συναποκρυβωσι	συναποκρύπτω				SUNAPOKRUBW=SI	KRU/PTW          SUN   A)PO
+0	48	P		8	μετ	μετ	μετ	μετά				MET'	META/
+0	48	RD	GPN	11	αὐτῶν	αὐτων	αυτων	αὐτός			.	AU)TW=N	AU)TO/S
+0	49	D		9	πῶς	πως	πως	πῶς				PW=S	PW=S
+0	49	X		5	οὖν	οὐν	ουν	οὖν				OU)=N	OU)=N
+0	49	D		9	οὐκ	οὐκ	ουκ	οὐ				OU)K	OU)
+0	49	V9	PAI3S	631937	ἔστιν	ἐστιν	εστιν	εἰμί				E)/STIN	EI)MI/
+0	49	VB	AMN	310145	αἰσθέσθαι	αἰσθεσθαι	αισθεσθαι	αἰσθάνομαι				AI)SQE/SQAI	AI)SQA/NOMAI
+0	49	C		4	ὅτι	ὁτι	οτι	ὅτι				O(/TI	O(/TI
+0	49	D		9	οὔκ	οὐκ	ουκ	οὐ				OU)/K	OU)
+0	49	V9	PAI3P	894081	εἰσιν	εἰσιν	εισιν	εἰμί				EI)SIN	EI)MI/
+0	49	N2	NPM	9858	θεοί	θεοι	θεοι	θεός			,	QEOI/	QEO/S
+0	49	RR	NPM	14	οἳ	οἱ	οι	ὅς				OI(\	O(/S
+0	49	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	49	V1	PAI3P	894081	σῴζουσιν	σωζουσιν	σωζουσιν	σώζω				SW/|ZOUSIN	SW/ZW
+0	49	RD	APM	11	ἑαυτοὺς	ἑαυτους	εαυτους	ἑαυτοῦ				E(AUTOU\S	E(AUTOU=
+0	49	P		8	ἐκ	ἐκ	εκ	ἐκ				E)K	E)K
+0	49	N2	GSM	9538	πολέμου	πολεμου	πολεμου	πόλεμος				POLE/MOU	PO/LEMOS
+0	49	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	49	P		8	ἐκ	ἐκ	εκ	ἐκ				E)K	E)K
+0	49	A1	GPN	18243	κακῶν	κακων	κακων	κακός			;	KAKW=N	KAKO/S
+0	50	V1	PAPNPN	9250241	ὑπάρχοντα	ὑπαρχοντα	υπαρχοντα	ὑπάρχοντα				U(PA/RXONTA	A)/RXW           U(PO
+0	50	X		5	γὰρ	γαρ	γαρ	γάρ				GA\R	GA/R
+0	50	A1	NPN	18051	ξύλινα	ξυλινα	ξυλινα	ξύλινος				CU/LINA	CU/LINOS
+0	50	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	50	A1B	NPN	18051	περίχρυσα	περιχρυσα	περιχρυσα	περίχρυσος				PERI/XRUSA	PERI/XRUSOS
+0	50	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	50	A1B	NPN	18051	περιάργυρα	περιαργυρα	περιαργυρα	περιάργυρος				PERIA/RGURA	PERIA/RGUROS
+0	50	VS	FPI3S	641153	γνωσθήσεται	γνωσθησεται	γνωσθησεται	γινώσκω				GNWSQH/SETAI	GIGNW/SKW
+0	50	P		8	μετὰ	μετα	μετα	μετά				META\	META/
+0	50	RD	APN	11	ταῦτα	ταυτα	ταυτα	οὗτος				TAU=TA	OU(=TOS
+0	50	C		4	ὅτι	ὁτι	οτι	ὅτι				O(/TI	O(/TI
+0	50	V9	PAI3S	631937	ἐστὶν	ἐστιν	εστιν	εἰμί				E)STI\N	EI)MI/
+0	50	A3H	NPN	18051	ψευδῆ	ψευδη	ψευδη	ψευδής			·	YEUDH=	YEUDH/S
+0	50	RA	DPN	10	τοῖς	τοις	τοις	ὁ				TOI=S	O(
+0	50	N3E	DPN	18306	ἔθνεσι	ἐθνεσι	εθνεσι	ἔθνος				E)/QNESI	E)/QNOS
+0	50	A3	DPN	18307	πᾶσι	πασι	πασι	πᾶς				PA=SI	PA=S
+0	50	RA	DPM	10	τοῖς	τοις	τοις	ὁ				TOI=S	O(
+0	50	X		5	τε	τε	τε	τε				TE	TE
+0	50	N3V	DPM	10114	βασιλεῦσι	βασιλευσι	βασιλευσι	βασιλεύς				BASILEU=SI	BASILEU/S
+0	50	A1A	NSN	17539	φανερὸν	φανερον	φανερον	φανερός				FANERO\N	FANERO/S
+0	50	VF	FMI3S	637057	ἔσται	ἐσται	εσται	εἰμί				E)/STAI	EI)MI/
+0	50	C		4	ὅτι	ὁτι	οτι	ὅτι				O(/TI	O(/TI
+0	50	D		9	οὔκ	οὐκ	ουκ	οὐ				OU)/K	OU)
+0	50	V9	PAI3P	894081	εἰσι	εἰσι	εισι	εἰμί				EI)SI	EI)MI/
+0	50	N2	NPM	9858	θεοὶ	θεοι	θεοι	θεός				QEOI\	QEO/S
+0	50	C		4	ἀλλὰ	ἀλλα	αλλα	ἀλλά				A)LLA\	A)LLA/
+0	50	N2N	NPN	18050	ἔργα	ἐργα	εργα	ἔργον				E)/RGA	E)/RGON
+0	50	N3	GPF	14146	χειρῶν	χειρων	χειρων	χείρ				XEIRW=N	XEI/R
+0	50	N2	GPM	10050	ἀνθρώπων	ἀνθρωπων	ανθρωπων	ἄνθρωπος			,	A)NQRW/PWN	A)/NQRWPOS
+0	50	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	50	A3	NSN	17539	οὐδὲν	οὐδεν	ουδεν	οὐδείς				OU)DE\N	OU)DEI/S
+0	50	N2	GSM	9538	θεοῦ	θεου	θεου	θεός				QEOU=	QEO/S
+0	50	N2N	NSN	17538	ἔργον	ἐργον	εργον	ἔργον				E)/RGON	E)/RGON
+0	50	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	50	RD	DPN	11	αὐτοῖς	αὐτοις	αυτοις	αὐτός				AU)TOI=S	AU)TO/S
+0	50	V9	PAI3S	631937	ἐστιν	ἐστιν	εστιν	εἰμί			.	E)STIN	EI)MI/
+0	51	RI	DSM	12	τίνι	τινι	τινι	τίς				TI/NI	TI/S
+0	51	X		5	οὖν	οὐν	ουν	οὖν				OU)=N	OU)=N
+0	51	A1A	NSN	17539	γνωστέον	γνωστεον	γνωστεον	γνωστέος				GNWSTE/ON	GNWSTE/OS
+0	51	V9	PAI3S	631937	ἐστὶν	ἐστιν	εστιν	εἰμί				E)STI\N	EI)MI/
+0	51	C		4	ὅτι	ὁτι	οτι	ὅτι				O(/TI	O(/TI
+0	51	D		9	οὔκ	οὐκ	ουκ	οὐ				OU)/K	OU)
+0	51	V9	PAI3P	894081	εἰσιν	εἰσιν	εισιν	εἰμί				EI)SIN	EI)MI/
+0	51	N2	NPM	9858	θεοί	θεοι	θεοι	θεός			;	QEOI/	QEO/S
+0	52	N3V	ASM	9474	Βασιλέα	βασιλεα	βασιλεα	βασιλεύς				BASILE/A	BASILEU/S
+0	52	X		5	γὰρ	γαρ	γαρ	γάρ				GA\R	GA/R
+0	52	N1A	GSF	13634	χώρας	χωρας	χωρας	χώρα				XW/RAS	XW/RA
+0	52	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	52	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	52	VA	AAS3P	895745	ἀναστήσωσιν	ἀναστησωσιν	αναστησωσιν	ἀνίστημι				A)NASTH/SWSIN	I(/STHMI         A)NA
+0	52	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	52	N2	ASM	9474	ὑετὸν	ὑετον	υετον	ὑετός				U(ETO\N	U(ETO/S
+0	52	N2	DPM	10114	ἀνθρώποις	ἀνθρωποις	ανθρωποις	ἄνθρωπος				A)NQRW/POIS	A)/NQRWPOS
+0	52	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	52	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	52	VO	AAS3P	895745	δῶσιν	δωσιν	δωσιν	δίδωμι				DW=SIN	DI/DWMI
+0	53	N3I	ASF	13570	κρίσιν	κρισιν	κρισιν	κρίσις				KRI/SIN	KRI/SIS
+0	53	X		5	τε	τε	τε	τε				TE	TE
+0	53	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	53	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	53	VA	AAS3P	895745	διακρίνωσιν	διακρινωσιν	διακρινωσιν	διακρίνω				DIAKRI/NWSIN	KRI/NW           DIA
+0	53	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	53	C		4	οὐδὲ	οὐδε	ουδε	οὐδέ				OU)DE\	OU)DE/
+0	53	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	53	VA	AMS3P	899841	ῥύσωνται	ῥυσωνται	ρυσωνται	ῥύομαι				R(U/SWNTAI	R(U/OMAI
+0	53	V2	PPPASM	4867521	ἀδικούμενον	ἀδικουμενον	αδικουμενον	ἀδικέω				A)DIKOU/MENON	A)DIKE/W
+0	53	A1B	NPM	9859	ἀδύνατοι	ἀδυνατοι	αδυνατοι	ἀδύνατος				A)DU/NATOI	A)DU/NATOS
+0	53	V9	PAPNPM	5055937	ὄντες	ὀντες	οντες	εἰμί			·	O)/NTES	EI)MI/
+0	53	D		9	ὥσπερ	ὡσπερ	ωσπερ	ὥσπερ				W(/SPER	W(/SPER
+0	53	X		5	γὰρ	γαρ	γαρ	γάρ				GA\R	GA/R
+0	53	N1	NPF	13954	κορῶναι	κορωναι	κορωναι	κορώνη				KORW=NAI	KORW/NH
+0	53	P		8	ἀνὰ	ἀνα	ανα	ἀνά				A)NA\	A)NA/
+0	53	A1	ASM	9475	μέσον	μεσον	μεσον	μέσος				ME/SON	ME/SOS
+0	53	RA	GSM	10	τοῦ	του	του	ὁ				TOU=	O(
+0	53	N2	GSM	9538	οὐρανοῦ	οὐρανου	ουρανου	οὐρανός				OU)RANOU=	OU)RANO/S
+0	53	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	53	RA	GSF	10	τῆς	της	της	ὁ				TH=S	O(
+0	53	N1	GSF	13634	γῆς	γης	γης	γῆ			.	GH=S	GH=
+0	54	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	54	X		5	γὰρ	γαρ	γαρ	γάρ				GA\R	GA/R
+0	54	D		9	ὅταν	ὁταν	οταν	ὅταν				O(/TAN	O(/TAN
+0	54	VA	AAS3S	633601	ἐμπέσῃ	ἐμπεση	εμπεση	ἐμπίπτω				E)MPE/SH|	PI/PTW           E)N
+0	54	P		8	εἰς	εἰς	εις	εἰς				EI)S	EI)S
+0	54	N1A	ASF	13570	οἰκίαν	οἰκιαν	οικιαν	οἰκία				OI)KI/AN	OI)KI/A
+0	54	N2	GPM	10050	θεῶν	θεων	θεων	θεός				QEW=N	QEO/S
+0	54	A1	GPM	10051	ξυλίνων	ξυλινων	ξυλινων	ξύλινος				CULI/NWN	CU/LINOS
+0	54	C		4	ἢ	ἠ	η	ἤ				H)\	H)/
+0	54	A1B	GPM	10051	περιχρύσων	περιχρυσων	περιχρυσων	περίχρυσος				PERIXRU/SWN	PERI/XRUSOS
+0	54	C		4	ἢ	ἠ	η	ἤ				H)\	H)/
+0	54	A1B	GPM	10051	περιαργύρων	περιαργυρων	περιαργυρων	περιάργυρος				PERIARGU/RWN	PERIA/RGUROS
+0	54	N3	NSN	17538	πῦρ	πυρ	πυρ	πῦρ			,	PU=R	PU=R
+0	54	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	54	X		5	μὲν	μεν	μεν	μέν				ME\N	ME/N
+0	54	N3V	NPM	9858	ἱερεῖς	ἱερεις	ιερεις	ἱερεύς				I(EREI=S	I(EREU/S
+0	54	RD	GPN	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	54	VF	FMI3P	899201	φεύξονται	φευξονται	φευξονται	φεύγω				FEU/CONTAI	FEU/GW
+0	54	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	54	VC	FPI3P	903297	διασωθήσονται	διασωθησονται	διασωθησονται	διασώζω			,	DIASWQH/SONTAI	SW/ZW            DIA
+0	54	RD	NPM	11	αὐτοὶ	αὐτοι	αυτοι	αὐτός				AU)TOI\	AU)TO/S
+0	54	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	54	D		9	ὥσπερ	ὡσπερ	ωσπερ	ὥσπερ				W(/SPER	W(/SPER
+0	54	N2	NPF	13954	δοκοὶ	δοκοι	δοκοι	δοκός				DOKOI\	DOKO/S
+0	54	A1	NPM	9859	μέσοι	μεσοι	μεσοι	μέσος				ME/SOI	ME/SOS
+0	54	VC	FPI3P	903297	κατακαυθήσονται	κατακαυθησονται	κατακαυθησονται	κατακαίω			.	KATAKAUQH/SONTAI	KAI/W            KATA
+0	55	N3V	DSM	9602	βασιλεῖ	βασιλει	βασιλει	βασιλεύς				BASILEI=	BASILEU/S
+0	55	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	55	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	55	A1A	DPM	10115	πολεμίοις	πολεμιοις	πολεμιοις	πολέμιος				POLEMI/OIS	POLE/MIOS
+0	55	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	55	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	55	VH	AAS3P	895745	ἀντιστῶσιν	ἀντιστωσιν	αντιστωσιν	ἀνθίστημι			.	A)NTISTW=SIN	I(/STHMI         A)NTI
+0	56	D		9	πῶς	πως	πως	πῶς				PW=S	PW=S
+0	56	X		5	οὖν	οὐν	ουν	οὖν				OU)=N	OU)=N
+0	56	A1A	NSN	17539	ἐκδεκτέον	ἐκδεκτεον	εκδεκτεον	ἐκδεκτέον				E)KDEKTE/ON	E)KDEKTE/ON
+0	56	C		4	ἢ	ἠ	η	ἤ				H)\	H)/
+0	56	A1A	NSN	17539	νομιστέον	νομιστεον	νομιστεον	νομιστέον				NOMISTE/ON	NOMISTE/ON
+0	56	C		4	ὅτι	ὁτι	οτι	ὅτι				O(/TI	O(/TI
+0	56	V9	PAI3P	894081	εἰσὶν	εἰσιν	εισιν	εἰμί				EI)SI\N	EI)MI/
+0	56	N2	NPM	9858	θεοί	θεοι	θεοι	θεός			;	QEOI/	QEO/S
+0	57	C		4	Οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	57	P		8	ἀπὸ	ἀπο	απο	ἀπό				A)PO\	A)PO/
+0	57	N1M	GPM	10050	κλεπτῶν	κλεπτων	κλεπτων	κλέπτης				KLEPTW=N	KLE/PTHS
+0	57	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	57	P		8	ἀπὸ	ἀπο	απο	ἀπό				A)PO\	A)PO/
+0	57	N1M	GPM	10050	λῃστῶν	ληστων	ληστων	λῃστής				LH|STW=N	LH|STH/S
+0	57	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	57	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	57	VC	APS3P	903937	διασωθῶσιν	διασωθωσιν	διασωθωσιν	διασώζω				DIASWQW=SIN	SW/ZW            DIA
+0	57	N2	NPM	9858	θεοὶ	θεοι	θεοι	θεός				QEOI\	QEO/S
+0	57	A1	NPM	9859	ξύλινοι	ξυλινοι	ξυλινοι	ξύλινος				CU/LINOI	CU/LINOS
+0	57	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	57	A1B	NPM	9859	περιάργυροι	περιαργυροι	περιαργυροι	περιάργυρος				PERIA/RGUROI	PERIA/RGUROS
+0	57	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	57	A1B	NPM	9859	περίχρυσοι	περιχρυσοι	περιχρυσοι	περίχρυσος			,	PERI/XRUSOI	PERI/XRUSOS
+0	57	RR	GPM	14	ὧν	ὡν	ων	ὅς				W(=N	O(/S
+0	57	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	57	V1	PAPNPM	5055937	ἰσχύοντες	ἰσχυοντες	ισχυοντες	ἰσχύω				I)SXU/ONTES	I)SXU/W
+0	57	VF2	FMI3P	899201	περιελοῦνται	περιελουνται	περιελουνται	περιαιρέω				PERIELOU=NTAI	AI(RE/W          PERI
+0	57	RA	ASN	10	τὸ	το	το	ὁ				TO\	O(
+0	57	N2N	ASN	17666	χρυσίον	χρυσιον	χρυσιον	χρυσίον				XRUSI/ON	XRUSI/ON
+0	57	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	57	RA	ASN	10	τὸ	το	το	ὁ				TO\	O(
+0	57	N2N	ASN	17666	ἀργύριον	ἀργυριον	αργυριον	ἀργύριον				A)RGU/RION	A)RGU/RION
+0	57	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	57	RA	ASM	10	τὸν	τον	τον	ὁ				TO\N	O(
+0	57	N2	ASM	9474	ἱματισμὸν	ἱματισμον	ιματισμον	ἱματισμός				I(MATISMO\N	I(MATISMO/S
+0	57	RA	ASM	10	τὸν	τον	τον	ὁ				TO\N	O(
+0	57	V5	PMPASM	4863425	περικείμενον	περικειμενον	περικειμενον	περίκειμαι				PERIKEI/MENON	KEI=MAI          PERI
+0	57	RD	DPM	11	αὐτοῖς	αὐτοις	αυτοις	αὐτός				AU)TOI=S	AU)TO/S
+0	57	VF	FMI3P	899201	ἀπελεύσονται	ἀπελευσονται	απελευσονται	ἀπέρχομαι				A)PELEU/SONTAI	E)/RXOMAI        A)PO
+0	57	V1	PAPNPM	5055937	ἔχοντες	ἐχοντες	εχοντες	ἔχω			,	E)/XONTES	E)/XW
+0	57	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	57	RD	DPM	11	ἑαυτοῖς	ἑαυτοις	εαυτοις	ἑαυτοῦ				E(AUTOI=S	E(AUTOU=
+0	57	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	57	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	57	VA	AAS3P	895745	βοηθήσωσιν	βοηθησωσιν	βοηθησωσιν	βοηθέω			·	BOHQH/SWSIN	BOHQE/W
+0	58	C		4	ὥστε	ὡστε	ωστε	ὥστε				W(/STE	W(/STE
+0	58	A3C	NSN	17539	κρεῖσσον	κρεισσον	κρεισσον	κρεῖσσον				KREI=SSON	KREI/SSWN
+0	58	V9	PAN	304513	εἶναι	εἰναι	ειναι	εἰμί				EI)=NAI	EI)MI/
+0	58	N3V	ASM	9474	βασιλέα	βασιλεα	βασιλεα	βασιλεύς				BASILE/A	BASILEU/S
+0	58	V5	PMPASM	4863425	ἐπιδεικνύμενον	ἐπιδεικνυμενον	επιδεικνυμενον	ἐπιδείκνυμι				E)PIDEIKNU/MENON	DEIKNU/W         E)PI
+0	58	RA	ASF	10	τὴν	την	την	ὁ				TH\N	O(
+0	58	RD	GSM	11	ἑαυτοῦ	ἑαυτου	εαυτου	ἑαυτοῦ				E(AUTOU=	E(AUTOU=
+0	58	N1A	ASF	13570	ἀνδρείαν	ἀνδρειαν	ανδρειαν	ἀνδρεία				A)NDREI/AN	A)NDREI/A
+0	58	C		4	ἢ	ἠ	η	ἤ				H)\	H)/
+0	58	N3E	ASN	17666	σκεῦος	σκευος	σκευος	σκεῦος				SKEU=OS	SKEU=OS
+0	58	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	58	N1A	DSF	13698	οἰκίᾳ	οἰκια	οικια	οἰκία				OI)KI/A|	OI)KI/A
+0	58	A1	ASN	17667	χρήσιμον	χρησιμον	χρησιμον	χρήσιμος			,	XRH/SIMON	XRH/SIMOS
+0	58	P		8	ἐφ	ἐφ	εφ	ἐπί				E)F'	E)PI/
+0	58	RR	DSN	14	ᾧ	ὡ	ω	ὅς				W(=|	O(/S
+0	58	VF	FMI3S	637057	χρήσεται	χρησεται	χρησεται	χράω				XRH/SETAI	XRA/W
+0	58	RA	NSM	10	ὁ	ὁ	ο	ὁ				O(	O(
+0	58	VM	XMPNSM	4799937	κεκτημένος	κεκτημενος	κεκτημενος	κτάομαι			,	KEKTHME/NOS	KTA/OMAI
+0	58	C		4	ἢ	ἠ	η	ἤ				H)\	H)/
+0	58	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	58	A3H	NPM	9859	ψευδεῖς	ψευδεις	ψευδεις	ψευδής				YEUDEI=S	YEUDH/S
+0	58	N2	NPM	9858	θεοί	θεοι	θεοι	θεός			·	QEOI/	QEO/S
+0	58	C		4	ἢ	ἠ	η	ἤ				H)\	H)/
+0	58	D		9	καὶ	και	και	καί				KAI\	KAI/
+0	58	N1A	NSF	13442	θύρα	θυρα	θυρα	θύρα				QU/RA	QU/RA
+0	58	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	58	N1A	DSF	13698	οἰκίᾳ	οἰκια	οικια	οἰκία				OI)KI/A|	OI)KI/A
+0	58	V1	PAPNSF	6890945	διασῴζουσα	διασωζουσα	διασωζουσα	διασώζω				DIASW/|ZOUSA	SW/ZW            DIA
+0	58	RA	APN	10	τὰ	τα	τα	ὁ				TA\	O(
+0	58	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	58	RD	DSF	11	αὐτῇ	αὐτη	αυτη	αὐτός				AU)TH=|	AU)TO/S
+0	58	V9	PAPAPN	9315777	ὄντα	ὀντα	οντα	εἰμί				O)/NTA	EI)MI/
+0	58	C		4	ἢ	ἠ	η	ἤ				H)\	H)/
+0	58	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	58	A3H	NPM	9859	ψευδεῖς	ψευδεις	ψευδεις	ψευδής				YEUDEI=S	YEUDH/S
+0	58	N2	NPM	9858	θεοί	θεοι	θεοι	θεός			,	QEOI/	QEO/S
+0	58	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	58	A1	NSM	9347	ξύλινος	ξυλινος	ξυλινος	ξύλινος				CU/LINOS	CU/LINOS
+0	58	N2	NSM	9346	στῦλος	στυλος	στυλος	στῦλος				STU=LOS	STU=LOS
+0	58	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	58	N2N	DPN	18306	βασιλείοις	βασιλειοις	βασιλειοις	βασίλειον				BASILEI/OIS	BASI/LEION
+0	58	C		4	ἢ	ἠ	η	ἤ				H)\	H)/
+0	58	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	58	A3H	NPM	9859	ψευδεῖς	ψευδεις	ψευδεις	ψευδής				YEUDEI=S	YEUDH/S
+0	58	N2	NPM	9858	θεοί	θεοι	θεοι	θεός			.	QEOI/	QEO/S
+0	59	N2	NSM	9346	ἥλιος	ἡλιος	ηλιος	ἥλιος				H(/LIOS	H(/LIOS
+0	59	X		5	μὲν	μεν	μεν	μέν				ME\N	ME/N
+0	59	X		5	γὰρ	γαρ	γαρ	γάρ				GA\R	GA/R
+0	59	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	59	N1	NSF	13442	σελήνη	σεληνη	σεληνη	σελήνη				SELH/NH	SELH/NH
+0	59	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	59	N2N	NPN	18050	ἄστρα	ἀστρα	αστρα	ἄστρον				A)/STRA	A)/STRON
+0	59	V9	PAPNPN	9250241	ὄντα	ὀντα	οντα	εἰμί				O)/NTA	EI)MI/
+0	59	A1A	NPN	18051	λαμπρὰ	λαμπρα	λαμπρα	λαμπρός				LAMPRA\	LAMPRO/S
+0	59	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	59	V1	PMPNPN	9254337	ἀποστελλόμενα	ἀποστελλομενα	αποστελλομενα	ἀποστέλλω				A)POSTELLO/MENA	STE/LLW          A)PO
+0	59	P		8	ἐπὶ	ἐπι	επι	ἐπί				E)PI\	E)PI/
+0	59	N1A	GSF	13634	χρείας	χρειας	χρειας	χρεία				XREI/AS	XREI/A
+0	59	A1B	NPN	18051	εὐήκοά	εὐηκοα	ευηκοα	εὐήκοος				EU)H/KOA/	EU)H/KOOS
+0	59	V9	PAI3P	894081	εἰσιν	εἰσιν	εισιν	εἰμί			·	EI)SIN	EI)MI/
+0	60	D		9	ὡσαύτως	ὡσαυτως	ωσαυτως	ὡσαύτως				W(SAU/TWS	W(SAU/TWS
+0	60	D		9	καὶ	και	και	καί				KAI\	KAI/
+0	60	N1	NSF	13442	ἀστραπή	ἀστραπη	αστραπη	ἀστραπή			,	A)STRAPH/	A)STRAPH/
+0	60	D		9	ὅταν	ὁταν	οταν	ὅταν				O(/TAN	O(/TAN
+0	60	VD	APS3S	641793	ἐπιφανῇ	ἐπιφανη	επιφανη	ἐπιφαίνω			,	E)PIFANH=|	FAI/NW           E)PI
+0	60	A1B	NSF	13443	εὔοπτός	εὐοπτος	ευοπτος	εὔοπτος				EU)/OPTO/S	EU)/OPTOS
+0	60	V9	PAI3S	631937	ἐστιν	ἐστιν	εστιν	εἰμί			·	E)STIN	EI)MI/
+0	60	RA	ASN	10	τὸ	το	το	ὁ				TO\	O(
+0	60	X		5	δ	δ	δ	δέ				D'	DE/
+0	60	RD	ASN	11	αὐτὸ	αὐτο	αυτο	αὐτός				AU)TO\	AU)TO/S
+0	60	D		9	καὶ	και	και	καί				KAI\	KAI/
+0	60	N3M	NSN	17538	πνεῦμα	πνευμα	πνευμα	πνεῦμα				PNEU=MA	PNEU=MA
+0	60	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	60	A1S	DSF	13699	πάσῃ	παση	παση	πᾶς				PA/SH|	PA=S
+0	60	N1A	DSF	13698	χώρᾳ	χωρα	χωρα	χώρα				XW/RA|	XW/RA
+0	60	V2	PAI3S	631937	πνεῖ	πνει	πνει	πνέω			·	PNEI=	PNE/W
+0	61	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	61	N1	DPF	14210	νεφέλαις	νεφελαις	νεφελαις	νεφέλη				NEFE/LAIS	NEFE/LH
+0	61	D		9	ὅταν	ὁταν	οταν	ὅταν				O(/TAN	O(/TAN
+0	61	VD	APS3S	641793	ἐπιταγῇ	ἐπιταγη	επιταγη	ἐπιτάσσω				E)PITAGH=|	TA/SSW           E)PI
+0	61	P		8	ὑπὸ	ὑπο	υπο	ὑπό				U(PO\	U(PO/
+0	61	RA	GSM	10	τοῦ	του	του	ὁ				TOU=	O(
+0	61	N2	GSM	9538	θεοῦ	θεου	θεου	θεός				QEOU=	QEO/S
+0	61	V1	PMN	308609	ἐπιπορεύεσθαι	ἐπιπορευεσθαι	επιπορευεσθαι	ἐπιπορεύομαι				E)PIPOREU/ESQAI	POREU/OMAI       E)PI
+0	61	P		8	ἐφ	ἐφ	εφ	ἐπί				E)F'	E)PI/
+0	61	A1	ASF	13571	ὅλην	ὁλην	ολην	ὅλος				O(/LHN	O(/LOS
+0	61	RA	ASF	10	τὴν	την	την	ὁ				TH\N	O(
+0	61	V2	PMPASF	6960577	οἰκουμένην	οἰκουμενην	οικουμενην	οἰκουμένη			,	OI)KOUME/NHN	OI)KE/W
+0	61	V2	PAI3P	894081	συντελοῦσι	συντελουσι	συντελουσι	συντελέω				SUNTELOU=SI	TELE/W           SUN
+0	61	RA	ASN	10	τὸ	το	το	ὁ				TO\	O(
+0	61	VQ	APPASN	9063361	ταχθέν	ταχθεν	ταχθεν	τάσσω			·	TAXQE/N	TA/SSW
+0	61	RA	NSN	10	τό	το	το	ὁ				TO/	O(
+0	61	X		5	τε	τε	τε	τε				TE	TE
+0	61	N3	NSN	17538	πῦρ	πυρ	πυρ	πῦρ				PU=R	PU=R
+0	61	VD	APPNSN	8997825	ἐξαποσταλὲν	ἐξαποσταλεν	εξαποσταλεν	ἐξαποστέλλω				E)CAPOSTALE\N	STE/LLW          E)K   A)PO
+0	61	D		9	ἄνωθεν	ἀνωθεν	ανωθεν	ἄνωθεν				A)/NWQEN	A)/NWQEN
+0	61	VA	AAN	306049	ἐξαναλῶσαι	ἐξαναλωσαι	εξαναλωσαι	ἐξαναλίσκω				E)CANALW=SAI	A(LI/SKW         E)K   A)NA
+0	61	N3E	APN	18178	ὄρη	ὀρη	ορη	ὄρος				O)/RH	O)/ROS
+0	61	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	61	N2	APM	9986	δρυμοὺς	δρυμους	δρυμους	δρυμός				DRUMOU\S	DRUMO/S
+0	61	V2	PAI3S	631937	ποιεῖ	ποιει	ποιει	ποιέω				POIEI=	POIE/W
+0	61	RA	ASN	10	τὸ	το	το	ὁ				TO\	O(
+0	61	VQ	APPASN	9063361	συνταχθέν	συνταχθεν	συνταχθεν	συντάσσω			.	SUNTAXQE/N	TA/SSW           SUN
+0	62	RD	NPN	11	ταῦτα	ταυτα	ταυτα	οὗτος				TAU=TA	OU(=TOS
+0	62	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	62	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	62	RA	DPF	10	ταῖς	ταις	ταις	ὁ				TAI=S	O(
+0	62	N1A	DPF	14210	ἰδέαις	ἰδεαις	ιδεαις	ἰδέα				I)DE/AIS	I)DE/A
+0	62	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	62	RA	DPF	10	ταῖς	ταις	ταις	ὁ				TAI=S	O(
+0	62	N3I	DPF	14210	δυνάμεσιν	δυναμεσιν	δυναμεσιν	δύναμις				DUNA/MESIN	DU/NAMIS
+0	62	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	62	VM	XPPNPN	9260481	ἀφωμοιωμένα	ἀφωμοιωμενα	αφωμοιωμενα	ἀφομοιόω				A)FWMOIWME/NA	O(MOIO/W         A)PO
+0	62	V9	PAI3S	631937	ἐστίν	ἐστιν	εστιν	εἰμί			.	E)STI/N	EI)MI/
+0	63	D		9	ὅθεν	ὁθεν	οθεν	ὅθεν				O(/QEN	O(/QEN
+0	63	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	63	A1A	NSN	17539	νομιστέον	νομιστεον	νομιστεον	νομιστέον				NOMISTE/ON	NOMISTE/ON
+0	63	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	63	A1A	NSN	17539	κλητέον	κλητεον	κλητεον	κλητέος				KLHTE/ON	KLHTE/OS
+0	63	V1	PAN	304513	ὑπάρχειν	ὑπαρχειν	υπαρχειν	ὑπάρχω				U(PA/RXEIN	A)/RXW           U(PO
+0	63	RD	APM	11	αὐτοὺς	αὐτους	αυτους	αὐτός				AU)TOU\S	AU)TO/S
+0	63	N2	APM	9986	θεούς	θεους	θεους	θεός			,	QEOU/S	QEO/S
+0	63	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	63	A1	GPN	18243	δυνατῶν	δυνατων	δυνατων	δυνατός				DUNATW=N	DUNATO/S
+0	63	V9	PAPGPN	9348545	ὄντων	ὀντων	οντων	εἰμί				O)/NTWN	EI)MI/
+0	63	RD	GPN	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	63	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	63	N3I	ASF	13570	κρίσιν	κρισιν	κρισιν	κρίσις				KRI/SIN	KRI/SIS
+0	63	VA	AAN	306049	κρῖναι	κριναι	κριναι	κρίνω				KRI=NAI	KRI/NW
+0	63	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	63	D		9	εὖ	εὐ	ευ	εὖ				EU)=	EU)=
+0	63	V2	PAN	304513	ποιεῖν	ποιειν	ποιειν	ποιέω				POIEI=N	POIE/W
+0	63	N2	DPM	10114	ἀνθρώποις	ἀνθρωποις	ανθρωποις	ἄνθρωπος			.	A)NQRW/POIS	A)/NQRWPOS
+0	64	VZ	AAPNPM	5057473	γνόντες	γνοντες	γνοντες	γινώσκω				GNO/NTES	GIGNW/SKW
+0	64	X		5	οὖν	οὐν	ουν	οὖν				OU)=N	OU)=N
+0	64	C		4	ὅτι	ὁτι	οτι	ὅτι				O(/TI	O(/TI
+0	64	D		9	οὔκ	οὐκ	ουκ	οὐ				OU)/K	OU)
+0	64	V9	PAI3P	894081	εἰσιν	εἰσιν	εισιν	εἰμί				EI)SIN	EI)MI/
+0	64	N2	NPM	9858	θεοί	θεοι	θεοι	θεός			,	QEOI/	QEO/S
+0	64	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	64	VC	APS2P	903937	φοβηθῆτε	φοβηθητε	φοβηθητε	φοβέω				FOBHQH=TE	FOBE/W
+0	64	RD	APM	11	αὐτούς	αὐτους	αυτους	αὐτός			.	AU)TOU/S	AU)TO/S
+0	65	C		4	Οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	65	X		5	γὰρ	γαρ	γαρ	γάρ				GA\R	GA/R
+0	65	N3V	DPM	10114	βασιλεῦσιν	βασιλευσιν	βασιλευσιν	βασιλεύς				BASILEU=SIN	BASILEU/S
+0	65	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	65	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	65	VA	AMS3P	899841	καταράσωνται	καταρασωνται	καταρασωνται	καταράομαι				KATARA/SWNTAI	A)RA/OMAI        KATA
+0	65	C		4	οὔτε	οὐτε	ουτε	οὔτε				OU)/TE	OU)/TE
+0	65	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	65	VA	AAS3P	895745	εὐλογήσωσι	εὐλογησωσι	ευλογησωσι	εὐλογέω			.	EU)LOGH/SWSI	EU)LOGE/W
+0	66	N2N	APN	18178	σημεῖά	σημεια	σημεια	σημεῖον				SHMEI=A/	SHMEI=ON
+0	66	X		5	τε	τε	τε	τε				TE	TE
+0	66	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	66	N3E	DPN	18306	ἔθνεσιν	ἐθνεσιν	εθνεσιν	ἔθνος				E)/QNESIN	E)/QNOS
+0	66	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	66	N2	DSM	9602	οὐρανῷ	οὐρανω	ουρανω	οὐρανός				OU)RANW=|	OU)RANO/S
+0	66	D		9	οὐ	οὐ	ου	οὐ				OU)	OU)
+0	66	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	66	VA	AAS3P	895745	δείξωσιν	δειξωσιν	δειξωσιν	δεικνύω				DEI/CWSIN	DEIKNU/W
+0	66	C		4	οὐδὲ	οὐδε	ουδε	οὐδέ				OU)DE\	OU)DE/
+0	66	C		4	ὡς	ὡς	ως	ὥς				W(S	W(S
+0	66	RA	NSM	10	ὁ	ὁ	ο	ὁ				O(	O(
+0	66	N2	NSM	9346	ἥλιος	ἡλιος	ηλιος	ἥλιος				H(/LIOS	H(/LIOS
+0	66	VF	FAI3P	895105	λάμψουσιν	λαμψουσιν	λαμψουσιν	λάμπω				LA/MYOUSIN	LA/MPW
+0	66	C		4	οὐδὲ	οὐδε	ουδε	οὐδέ				OU)DE\	OU)DE/
+0	66	VF	FAI3P	895105	φωτίσουσιν	φωτισουσιν	φωτισουσιν	φωτίζω				FWTI/SOUSIN	FWTI/ZW
+0	66	C		4	ὡς	ὡς	ως	ὥς				W(S	W(S
+0	66	N1	NSF	13442	σελήνη	σεληνη	σεληνη	σελήνη			.	SELH/NH	SELH/NH
+0	67	RA	NPN	10	τὰ	τα	τα	ὁ				TA\	O(
+0	67	N2N	NPN	18050	θηρία	θηρια	θηρια	θηρίον				QHRI/A	QHRI/ON
+0	67	V9	PAI3S	631937	ἐστὶν	ἐστιν	εστιν	εἰμί				E)STI\N	EI)MI/
+0	67	A3C	NPN	18051	κρείττω	κρειττω	κρειττω	κρείσσων				KREI/TTW	KREI/SSWN
+0	67	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός			,	AU)TW=N	AU)TO/S
+0	67	RR	NPN	14	ἃ	ἁ	α	ὅς				A(\	O(/S
+0	67	V6	PMI3P	898177	δύνανται	δυνανται	δυνανται	δύναμαι				DU/NANTAI	DU/NAMAI
+0	67	VB	AAPNPN	9251777	ἐκφυγόντα	ἐκφυγοντα	εκφυγοντα	ἐκφεύγω				E)KFUGO/NTA	FEU/GW           E)K
+0	67	P		8	εἰς	εἰς	εις	εἰς				EI)S	EI)S
+0	67	N1	ASF	13570	σκέπην	σκεπην	σκεπην	σκέπης				SKE/PHN	SKE/PHS
+0	67	RD	APN	11	ἑαυτὰ	ἑαυτα	εαυτα	ἑαυτοῦ				E(AUTA\	E(AUTOU=
+0	67	VA	AAN	306049	ὠφελῆσαι	ὠφελησαι	ωφελησαι	ὠφελέω			.	W)FELH=SAI	W)FELE/W
+0	68	P		8	κατ	κατ	κατ	κατά				KAT'	KATA/
+0	68	A3	ASM	9475	οὐδένα	οὐδενα	ουδενα	οὐδείς				OU)DE/NA	OU)DEI/S
+0	68	X		5	οὖν	οὐν	ουν	οὖν				OU)=N	OU)=N
+0	68	N2	ASM	9474	τρόπον	τροπον	τροπον	τρόπος				TRO/PON	TRO/POS
+0	68	V9	PAI3S	631937	ἐστὶν	ἐστιν	εστιν	εἰμί				E)STI\N	EI)MI/
+0	68	RP	DP	13	ἡμῖν	ἡμιν	ημιν	ἡμῖν				H(MI=N	E)GW/
+0	68	A1A	NSN	17539	φανερὸν	φανερον	φανερον	φανερός				FANERO\N	FANERO/S
+0	68	C		4	ὅτι	ὁτι	οτι	ὅτι				O(/TI	O(/TI
+0	68	V9	PAI3P	894081	εἰσὶν	εἰσιν	εισιν	εἰμί				EI)SI\N	EI)MI/
+0	68	N2	NPM	9858	θεοί	θεοι	θεοι	θεός			·	QEOI/	QEO/S
+0	68	C		4	διὸ	διο	διο	διό				DIO\	DIO/
+0	68	D		9	μὴ	μη	μη	μή				MH\	MH/
+0	68	VC	APS2P	903937	φοβηθῆτε	φοβηθητε	φοβηθητε	φοβέω				FOBHQH=TE	FOBE/W
+0	68	RD	APM	11	αὐτούς	αὐτους	αυτους	αὐτός			.	AU)TOU/S	AU)TO/S
+0	69	D		9	Ὥσπερ	ὡσπερ	ωσπερ	ὥσπερ				W(/SPER	W(/SPER
+0	69	X		5	γὰρ	γαρ	γαρ	γάρ				GA\R	GA/R
+0	69	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	69	N2N	DSN	17794	σικυηράτῳ	σικυηρατω	σικυηρατω	σικυήρατον				SIKUHRA/TW|	SIKUH/RATON
+0	69	N2N	NSN	17538	προβασκάνιον	προβασκανιον	προβασκανιον	προβασκάνιον				PROBASKA/NION	PROBASKA/NION
+0	69	A3	ASN	17667	οὐδὲν	οὐδεν	ουδεν	οὐδείς				OU)DE\N	OU)DEI/S
+0	69	V1	PAPNSN	8988097	φυλάσσον	φυλασσον	φυλασσον	φυλάσσω			,	FULA/SSON	FULA/SSW
+0	69	D		9	οὕτως	οὑτως	ουτως	οὕτως				OU(/TWS	OU(/TWS
+0	69	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	69	N2	NPM	9858	θεοὶ	θεοι	θεοι	θεός				QEOI\	QEO/S
+0	69	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	69	V9	PAI3P	894081	εἰσιν	εἰσιν	εισιν	εἰμί				EI)SIN	EI)MI/
+0	69	A1	NPM	9859	ξύλινοι	ξυλινοι	ξυλινοι	ξύλινος				CU/LINOI	CU/LINOS
+0	69	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	69	A1B	NPM	9859	περίχρυσοι	περιχρυσοι	περιχρυσοι	περίχρυσος				PERI/XRUSOI	PERI/XRUSOS
+0	69	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	69	A1B	NPM	9859	περιάργυροι	περιαργυροι	περιαργυροι	περιάργυρος			.	PERIA/RGUROI	PERIA/RGUROS
+0	70	RA	ASM	10	τὸν	τον	τον	ὁ				TO\N	O(
+0	70	RD	ASM	11	αὐτὸν	αὐτον	αυτον	αὐτός				AU)TO\N	AU)TO/S
+0	70	N2	ASM	9474	τρόπον	τροπον	τροπον	τρόπος				TRO/PON	TRO/POS
+0	70	D		9	καὶ	και	και	καί				KAI\	KAI/
+0	70	RA	DSF	10	τῇ	τη	τη	ὁ				TH=|	O(
+0	70	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	70	N2	DSM	9602	κήπῳ	κηπω	κηπω	κῆπος				KH/PW|	KH=POS
+0	70	N2	DSF	13698	ῥάμνῳ	ῥαμνω	ραμνω	ῥάμνος			,	R(A/MNW|	R(A/MNOS
+0	70	P		8	ἐφ	ἐφ	εφ	ἐπί				E)F'	E)PI/
+0	70	RR	GSF	14	ἧς	ἡς	ης	ὅς				H(=S	O(/S
+0	70	A3	NSN	17539	πᾶν	παν	παν	πᾶς				PA=N	PA=S
+0	70	N2N	NSN	17538	ὄρνεον	ὀρνεον	ορνεον	ὄρνεον				O)/RNEON	O)/RNEON
+0	70	V5	PMI3S	636033	ἐπικάθηται	ἐπικαθηται	επικαθηται	ἐπικάθημαι			,	E)PIKA/QHTAI	H(=MAI           E)PI  KATA
+0	70	D		9	ὡσαύτως	ὡσαυτως	ωσαυτως	ὡσαύτως				W(SAU/TWS	W(SAU/TWS
+0	70	X		5	δὲ	δε	δε	δέ				DE\	DE/
+0	70	D		9	καὶ	και	και	καί				KAI\	KAI/
+0	70	N2	DSM	9602	νεκρῷ	νεκρω	νεκρω	νεκρός				NEKRW=|	NEKRO/S
+0	70	VM	XPPDSM	4935105	ἐρριμμένῳ	ἐρριμμενω	ερριμμενω	ῥίπτω				E)RRIMME/NW|	R(I/PTW
+0	70	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	70	N3E	DSN	17794	σκότει	σκοτει	σκοτει	σκότος				SKO/TEI	SKO/TOS
+0	70	VM	XMI3P	900225	ἀφωμοίωνται	ἀφωμοιωνται	αφωμοιωνται	ἀφομοιόω				A)FWMOI/WNTAI	O(MOIO/W         A)PO
+0	70	RA	NPM	10	οἱ	οἱ	οι	ὁ				OI(	O(
+0	70	N2	NPM	9858	θεοὶ	θεοι	θεοι	θεός				QEOI\	QEO/S
+0	70	RD	GPM	11	αὐτῶν	αὐτων	αυτων	αὐτός				AU)TW=N	AU)TO/S
+0	70	A1	NPM	9859	ξύλινοι	ξυλινοι	ξυλινοι	ξύλινος				CU/LINOI	CU/LINOS
+0	70	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	70	A1B	NPM	9859	περίχρυσοι	περιχρυσοι	περιχρυσοι	περίχρυσος				PERI/XRUSOI	PERI/XRUSOS
+0	70	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	70	A1B	NPM	9859	περιάργυροι	περιαργυροι	περιαργυροι	περιάργυρος			.	PERIA/RGUROI	PERIA/RGUROS
+0	71	P		8	ἀπό	ἀπο	απο	ἀπό				A)PO/	A)PO/
+0	71	X		5	τε	τε	τε	τε				TE	TE
+0	71	RA	GSF	10	τῆς	της	της	ὁ				TH=S	O(
+0	71	N1A	GSF	13634	πορφύρας	πορφυρας	πορφυρας	πορφύρα				PORFU/RAS	PORFU/RA
+0	71	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	71	RA	GSF	10	τῆς	της	της	ὁ				TH=S	O(
+0	71	N2	GSF	13634	μαρμάρου	μαρμαρου	μαρμαρου	μάρμαρος				MARMA/ROU	MA/RMAROS
+0	71	RA	GSF	10	τῆς	της	της	ὁ				TH=S	O(
+0	71	P		8	ἐπ	ἐπ	επ	ἐπί				E)P'	E)PI/
+0	71	RD	DPM	11	αὐτοῖς	αὐτοις	αυτοις	αὐτός				AU)TOI=S	AU)TO/S
+0	71	V1	PMPGSF	6993345	σηπομένης	σηπομενης	σηπομενης	σήπω				SHPOME/NHS	SH/PW
+0	71	VF	FMI2P	899201	γνώσεσθε	γνωσεσθε	γνωσεσθε	γινώσκω				GNW/SESQE	GIGNW/SKW
+0	71	C		4	ὅτι	ὁτι	οτι	ὅτι				O(/TI	O(/TI
+0	71	D		9	οὔκ	οὐκ	ουκ	οὐ				OU)/K	OU)
+0	71	V9	PAI3P	894081	εἰσιν	εἰσιν	εισιν	εἰμί				EI)SIN	EI)MI/
+0	71	N2	NPM	9858	θεοί	θεοι	θεοι	θεός			·	QEOI/	QEO/S
+0	71	RD	NPN	11	αὐτά	αὐτα	αυτα	αὐτός				AU)TA/	AU)TO/S
+0	71	X		5	τε	τε	τε	τε				TE	TE
+0	71	P		8	ἐξ	ἐξ	εξ	ἐκ				E)C	E)K
+0	71	A1A	GSNC	50499	ὑστέρου	ὑστερου	υστερου	ὕστερος				U(STE/ROU	U(/STEROS
+0	71	VC	FPI3P	903297	βρωθήσονται	βρωθησονται	βρωθησονται	βιβρώσκω			,	BRWQH/SONTAI	BIBRW/SKW
+0	71	C		4	καὶ	και	και	καί				KAI\	KAI/
+0	71	VF	FMI3S	637057	ἔσται	ἐσται	εσται	εἰμί				E)/STAI	EI)MI/
+0	71	N3E	NSN	17538	ὄνειδος	ὀνειδος	ονειδος	ὄνειδος				O)/NEIDOS	O)/NEIDOS
+0	71	P		8	ἐν	ἐν	εν	ἐν				E)N	E)N
+0	71	RA	DSF	10	τῇ	τη	τη	ὁ				TH=|	O(
+0	71	N1A	DSF	13698	χώρᾳ	χωρα	χωρα	χώρα			.	XW/RA|	XW/RA
+0	72	A3C	NSM	9347	κρείσσων	κρεισσων	κρεισσων	κρείσσων				KREI/SSWN	KREI/SSWN
+0	72	X		5	οὖν	οὐν	ουν	οὖν				OU)=N	OU)=N
+0	72	N2	NSM	9346	ἄνθρωπος	ἀνθρωπος	ανθρωπος	ἄνθρωπος				A)/NQRWPOS	A)/NQRWPOS
+0	72	A1A	NSM	9347	δίκαιος	δικαιος	δικαιος	δίκαιος				DI/KAIOS	DI/KAIOS
+0	72	D		9	οὐκ	οὐκ	ουκ	οὐ				OU)K	OU)
+0	72	V1	PAPNSM	4793793	ἔχων	ἐχων	εχων	ἔχω				E)/XWN	E)/XW
+0	72	N2N	APN	18178	εἴδωλα	εἰδωλα	ειδωλα	εἴδωλον			,	EI)/DWLA	EI)/DWLON
+0	72	VF	FMI3S	637057	ἔσται	ἐσται	εσται	εἰμί				E)/STAI	EI)MI/
+0	72	X		5	γὰρ	γαρ	γαρ	γάρ				GA\R	GA/R
+0	72	D		9	μακρὰν	μακραν	μακραν	μακράν				MAKRA\N	MAKRA/N
+0	72	P		8	ἀπὸ	ἀπο	απο	ἀπό				A)PO\	A)PO/
+0	72	N2	GSM	9538	ὀνειδισμοῦ	ὀνειδισμου	ονειδισμου	ὀνειδισμός			.	O)NEIDISMOU=	O)NEIDISMO/S

@@ -1,0 +1,14 @@
+E:\VS_Projects\2019\c#\2021\Greek\GreekBibleStudent\GreekBibleStudent\bin\x64\Release\GreekBibleStudent.exe.config
+E:\VS_Projects\2019\c#\2021\Greek\GreekBibleStudent\GreekBibleStudent\bin\x64\Release\GreekBibleStudent.exe
+E:\VS_Projects\2019\c#\2021\Greek\GreekBibleStudent\GreekBibleStudent\bin\x64\Release\GreekBibleStudent.pdb
+E:\VS_Projects\2019\c#\2021\Greek\GreekBibleStudent\GreekBibleStudent\obj\x64\Release\GreekBibleStudent.aboutBox.resources
+E:\VS_Projects\2019\c#\2021\Greek\GreekBibleStudent\GreekBibleStudent\obj\x64\Release\GreekBibleStudent.frmHelp.resources
+E:\VS_Projects\2019\c#\2021\Greek\GreekBibleStudent\GreekBibleStudent\obj\x64\Release\GreekBibleStudent.frmMain.resources
+E:\VS_Projects\2019\c#\2021\Greek\GreekBibleStudent\GreekBibleStudent\obj\x64\Release\GreekBibleStudent.frmNotes.resources
+E:\VS_Projects\2019\c#\2021\Greek\GreekBibleStudent\GreekBibleStudent\obj\x64\Release\GreekBibleStudent.frmPreferences.resources
+E:\VS_Projects\2019\c#\2021\Greek\GreekBibleStudent\GreekBibleStudent\obj\x64\Release\GreekBibleStudent.frmRelocate.resources
+E:\VS_Projects\2019\c#\2021\Greek\GreekBibleStudent\GreekBibleStudent\obj\x64\Release\GreekBibleStudent.Properties.Resources.resources
+E:\VS_Projects\2019\c#\2021\Greek\GreekBibleStudent\GreekBibleStudent\obj\x64\Release\GreekBibleStudent.csproj.GenerateResource.cache
+E:\VS_Projects\2019\c#\2021\Greek\GreekBibleStudent\GreekBibleStudent\obj\x64\Release\GreekBibleStudent.csproj.CoreCompileInputs.cache
+E:\VS_Projects\2019\c#\2021\Greek\GreekBibleStudent\GreekBibleStudent\obj\x64\Release\GreekBibleStudent.exe
+E:\VS_Projects\2019\c#\2021\Greek\GreekBibleStudent\GreekBibleStudent\obj\x64\Release\GreekBibleStudent.pdb

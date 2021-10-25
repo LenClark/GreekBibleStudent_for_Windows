@@ -1,0 +1,59 @@
+ΓΕΝΕΣΙΣ	01_Gen.txt
+ΕΞΟΔΟΣ	02_Exod.txt
+ΛΕΥΙΤΙΚΟΝ	03_Lev.txt
+ΑΡΙΘΜΟΙ	04_Num.txt
+ΔΕΥΤΕΡΟΝΟΜΙΟΝ	05_Deut.txt
+ΙΗΣΟΥΣ	06_JoshB.txt
+ΙΗΣΟΥA	07_JoshA.txt
+ΚΡΙΤΑΙ (Codex Alexandrinus)	09_JudgA.txt
+ΚΡΙΤΑΙ (Codex Vaticanus)	08_JudgB.txt
+ΡΟΥΘ	10_Ruth.txt
+ΒΑΣΙΛΕΙΩΝ Α (M 1Sam)	11_1Sam.txt
+ΒΑΣΙΛΕΙΩΝ Β (M 2Sam)	12_2Sam.txt
+ΒΑΣΙΛΕΙΩΝ Γ (M 1Regn)	13_1Kgs.txt
+ΒΑΣΙΛΕΙΩΝ Δ (M 2Regn)	14_2Kgs.txt
+ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Α	15_1Chr.txt
+ΠΑΡΑΛΕΙΠΟΜΕΝΩΝ Β	16_2Chr.txt
+ΕΣΔΡΑΣ Α (liber apocryphus)	17_1Esd.txt
+ΕΣΔΡΑΣ Β (M Esdr, Neh)	18_2Esd.txt
+ΕΣΘΗΡ	19_Esth.txt
+ΙΟΥΔΙΘ	20_Jdt.txt
+ΤΩΒΙΤ (Codices Alex. & Vat.)	21_TobBA.txt
+ΤΩΒΙΤ (Codex Sinaiticus)	22_TobS.txt
+ΜΑΚΚΑΒΑΙΩΝ Α	23_1Macc.txt
+ΜΑΚΚΑΒΑΙΩΝ Β	24_2Macc.txt
+ΜΑΚΚΑΒΑΙΩΝ Γ	25_3Macc.txt
+ΜΑΚΚΑΒΑΙΩΝ Δ	26_4Macc.txt
+ΨΑΛΜΟΙ	27_Ps.txt
+ΩΔΑΙ	28_Odes.txt
+ΠΑΡΟΙΜΙΑΙ	29_Prov.txt
+ΕΚΚΛΗΣΙΑΣΤΗΣ	30_Eccl.txt
+ΑΣΜΑ	31_Song.txt
+ΙΩΒ	32_Job.txt
+ΣΟΦΙΑ ΣΑΛΩΜΩΝΟΣ	33_Wis.txt
+ΣΟΦΙΑ ΣΙΡΑΧ	34_Sir.txt
+ΨΑΛΜΙ ΣΟΛΟΜΩΝΤΟΣ	35_PsSol.txt
+ΩΣΗΕ	36_Hos.txt
+ΑΜΩΣ	38_Amos.txt
+ΜΙΧΑΙΑΣ	37_Mic.txt
+ΙΩΗΛ	39_Joel.txt
+ΑΒΔΙΟΥ	41_Obad.txt
+ΙΩΝΑΣ	40_Jonah.txt
+ΝΑΟΥΜ	42_Nah.txt
+ΑΜΒΑΚΟΥΜ	43_Hab.txt
+ΣΟΦΟΝΙΑΣ	44_Zeph.txt
+ΑΓΓΑΙΟΣ	45_Hag.txt
+ΖΑΧΑΡΙΑΣ	46_Zech.txt
+ΜΑΛΑΧΙΑΣ	47_Mal.txt
+ΗΣΑΙΑΣ	48_Isa.txt
+ΙΕΡΕΜΙΑΣ	49_Jer.txt
+ΒΑΡΟΥΧ	50_Bar.txt
+ΘΡΗΝΟΙ	52_Lam.txt
+ΕΠΙΣΤΟΛΗ ΙΕΡΕΜΙΟΥ	51_EpJer.txt
+ΙΕΖΕΚΙΗΛ	53_Ezek.txt
+ΣΟΥΣΑΝΝΑ (LXX)	58_SusOG.txt
+ΣΟΥΣΑΝΝΑ (Θεοδοτίων)	59_SusTh.txt
+ΔΑΝΙΗΛ (LXX)	56_DanOG.txt
+ΔΑΝΙΗΛ (Θεοδοτίων)	57_DanTh.txt
+ΒΗΛ ΚΑΙ ΔΡΑΚΩΝ (LXX)	54_BelOG.txt
+ΒΗΛ ΚΑΙ ΔΡΑΚΩΝ (Θεοδοτίων)	55_BelTh.txt
