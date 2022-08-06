@@ -1,0 +1,50 @@
+Original base directory: E:\VS_Projects\2022\c#\2022\Greek\GreekBibleStudent\GreekBibleStudent\bin\x64\Files
+New base directory: F:\Test\GreekBibleStudent
+opening registry
+New NT Titles file: F:\Test\GreekBibleStudent\Source\NTTitles.txt
+New LXX Titles file: F:\Test\GreekBibleStudent\Source\LXXTitles.txt
+New NT Text Folder: F:\Test\GreekBibleStudent\Source\NT
+New LXX Text Folder: F:\Test\GreekBibleStudent\Source\LXX
+New Notes Path: F:\Test\GreekBibleStudent\Notes
+New Help File: F:\Test\GreekBibleStudent\Help\Help.html
+New Keyboard Path: F:\Test\GreekBibleStudent\Source\Keyboard
+New Lexicon File: F:\Test\GreekBibleStudent\Lexicon\LandSSummary.txt
+Now refreshing registry with new file details
+
+Missing:
+F:\Test\GreekBibleStudent\ ...
+
+	... Greek
+	... Source
+	... Source\Keyboard
+	... Source\Lexicon
+
+
+Base Directory		E:\VS_Projects\2022\c#\2022\Greek\GreekBibleStudent\GreekBibleStudent\bin\x64\Files
+NT Titles			E:\VS_Projects\2022\c#\2022\Greek\GreekBibleStudent\GreekBibleStudent\bin\x64\Files\Source\NTTitles.txt
+LXX Titles		E:\VS_Projects\2022\c#\2022\Greek\GreekBibleStudent\GreekBibleStudent\bin\x64\Files\Source\LXXTitles.txt
+NT Folder			E:\VS_Projects\2022\c#\2022\Greek\GreekBibleStudent\GreekBibleStudent\bin\x64\Files\Source\NT
+LXX Folder		E:\VS_Projects\2022\c#\2022\Greek\GreekBibleStudent\GreekBibleStudent\bin\x64\Files\Source\LXX
+Notes Folder
+Notes Name		E:\VS_Projects\2022\c#\2022\Greek\GreekBibleStudent\GreekBibleStudent\bin\x64\Files\Help\Help.html  Just the name
+
+Help File			E:\VS_Projects\2022\c#\2022\Greek\GreekBibleStudent\GreekBibleStudent\bin\x64\Files\Source\Lexicon
+XXX Help Folder		E:\VS_Projects\2022\c#\2022\Greek\GreekBibleStudent\GreekBibleStudent\bin\x64\Files\Notes
+Keyboard Path		E:\VS_Projects\2022\c#\2022\Greek\GreekBibleStudent\GreekBibleStudent\bin\x64\Files\Source\Lexicon\LandSSummary.txt
+Lexicon Path		E:\VS_Projects\2022\c#\2022\Greek\GreekBibleStudent\GreekBibleStudent\bin\x64\Files\Source\Keyboard
+
+
+        String[] keyNames = { "Base Directory" /*, "Source Folder" */, "NT Titles", "LXX Titles", "NT Folder", "LXX Folder", XXX"Help Folder", "Notes Folder",
+                                   "Notes Name", "Help File", "Lexicon Path", "Keyboard Path", "Lexicon File" };
+
+                baseKey.SetValue(keyNames[0], baseDirectory, RegistryValueKind.String);
+                baseKey.SetValue(keyNames[1], globalVars.NtTitlesFile, RegistryValueKind.String);
+                baseKey.SetValue(keyNames[2], globalVars.LxxTitlesFile, RegistryValueKind.String);
+                baseKey.SetValue(keyNames[3], globalVars.NtTextFolder, RegistryValueKind.String);
+                baseKey.SetValue(keyNames[4], globalVars.LxxTextFolder, RegistryValueKind.String);
+                baseKey.SetValue(keyNames[5], globalVars.NotesPath, RegistryValueKind.String);
+                baseKey.SetValue(keyNames[6], globalVars.NotesName, RegistryValueKind.String);
+                baseKey.SetValue(keyNames[7], globalVars.HelpFile, RegistryValueKind.String);
+                baseKey.SetValue(keyNames[8], globalVars.LexiconFolder, RegistryValueKind.String);
+                baseKey.SetValue(keyNames[9], globalVars.KeyboardFolder, RegistryValueKind.String);
+                baseKey.SetValue(keyNames[10], globalVars.LiddellAndScott, RegistryValueKind.String);
