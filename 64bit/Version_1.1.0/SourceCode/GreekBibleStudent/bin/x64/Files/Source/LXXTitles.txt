@@ -1,0 +1,64 @@
+; Field 1: short name, used in the files
+; Field 2: the common book name
+; Field 3: Alternative name – usually the standard LXX name (may not exist)
+; Field 4: File name (in Source directory)
+; Field 5: Classification of category to which the book belongs
+Gen	Genesis		01_Gen.txt	1
+Exod	Exodus		02_Exod.txt	1
+Lev	Leviticus		03_Lev.txt	1
+Num	Numbers		04_Num.txt	1
+Deut	Deuteronomy		05_Deut.txt	1
+JoshB	Joshua (Codex Vaticanus)		06_JoshB.txt	2
+JoshA	Joshua (Codex Alexandrinus)		07_JoshA.txt	2
+JudgA	Judges (Codex Alexandrinus)		09_JudgesA.txt	2
+JudgB	Judges (Codex Vaticanus)		08_JudgesB.txt	2
+Ruth	Ruth		10_Ruth.txt	6
+1Sam/K	1 Samuel	1 Kings	11_1Sam.txt	2
+2Sam/K	2 Samuel	2 Kings	12_2Sam.txt	2
+1/3Kgs	1 Kings	3 Kings	13_1Kings.txt	2
+2/4Kgs	2 Kings	4 Kings	14_2Kings.txt	2
+1Chr	1 Chronicles		15_1Chron.txt	6
+2Chr	2 Chronicles		16_2Chron.txt	6
+1Esdr	1 Esdras		17_1Esdras.txt	7
+2Esdr	Ezra and Nehemiah	2 Esdras	18_2Esdras.txt	6
+Esth	Esther		19_Esther.txt	6
+Jdt	Judith		20_Judith.txt	7
+TobBA	Tobit (Codices Vaticanus and Alexandrinus)		21_TobitBA.txt	7
+TobS	Tobit (Codex Sinaiticus)		22_TobitS.txt	7
+1Mac	1 Macabees		23_1Macc.txt	7
+2Mac	2 Macabees		24_2Macc.txt	7
+3Mac	3 Macabees		25_3Macc.txt	7
+4Mac	4 Macabees		26_4Macc.txt	7
+Ps	Psalms		27_Psalms.txt	5
+Od	Odes		28_Odes.txt	7
+Prov	Proverbs		29_Proverbs.txt	5
+Qoh	Ecclesiastes	Qoheleth	30_Qoheleth.txt	5
+Cant	Song of Songs	Canticles	31_Canticles.txt	5
+Job	Job		32_Job.txt	5
+Wis	Wisdom of Solomon		33_Wisdom.txt	7
+Sir	Ecclesiasticus	Wisdom of Sirach	34_Sirach.txt	7
+PsSol	Psalms of Solomon		35_PsSol.txt	7
+Hos	Hosea		36_Hosea.txt	4
+Mic	Micah		38_Amos.txt	4
+Amos	Amos		37_Micah.txt	4
+Joel	Joel		39_Joel.txt	4
+Jonah	Jonah		41_Obadiah.txt	4
+Obad	Obadiah		40_Jonah.txt	4
+Nah	Nahum		42_Nahum.txt	4
+Hab	Habakkuk		43_Habakkuk.txt	4
+Zeph	Zephaniah		44_Zeph.txt	4
+Hag	Haggai		45_Haggai.txt	4
+Zech	Zechariah		46_Zech.txt	4
+Mal	Malachi		47_Malachi.txt	4
+Isa	Isaiah		48_Isaiah.txt	3
+Jer	Jeremiah		49_Jer.txt	3
+Bar	Baruch		50_Baruch.txt	7
+EpJer	Epistle of Jeremiah		51_EpJer.txt	7
+Lam	Lamentations		52_Lam.txt	5
+Ezek	Ezekiel		53_Ezek.txt	3
+Bel	Daniel	Bel and the Dragon (Old Greek)	54_BelOG.txt	7
+BelTh	Daniel	Bel and the Dragon (Theodotion)	55_BelTh.txt	7
+Dan	Daniel (Old Greek)		56_DanielOG.txt	6
+DanTh	Daniel (Theodotion)		57_DanielTh.txt	6
+Sus	Susanna (Old Greek)		58_SusOG.txt	7
+SusTh	Susanna (Theodotion)		59_SusTh.txt	7

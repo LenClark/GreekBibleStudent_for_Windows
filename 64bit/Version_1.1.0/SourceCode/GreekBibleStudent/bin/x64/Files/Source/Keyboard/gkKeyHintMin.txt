@@ -1,0 +1,51 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+dieresis (umlaut)
+oxia (accute)
+Backspace
+prosgegrammeni (iota subscript)
+final sigma
+epsilon
+rho
+tau
+upsilon
+theta
+iota
+omicron
+pi
+perispomeni (circumflex)
+varia (grave)
+Delete
+Caps Lock
+alpha
+sigma
+delta
+phi
+gamma
+eta
+xi
+kappa
+lambda
+daseia (rough breathing)
+koronis (smooth breathing)
+Clear
+Shift
+zeta
+chi
+psi
+omega
+beta
+nu
+mu
+ano teleia
+erotimatio (question mark)
+Shift
+Space

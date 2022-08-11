@@ -1,0 +1,13 @@
+Original base directory: E:\VS_Projects\2022\c#\2022\Greek\GreekBibleStudent\GreekBibleStudent\bin\x64\Files
+New base directory: F:\Test\GreekBibleStudent
+opening registry
+New NT Titles file: F:\Test\GreekBibleStudent\Source\NTTitles.txt
+New LXX Titles file: F:\Test\GreekBibleStudent\Source\LXXTitles.txt
+New NT Text Folder: F:\Test\GreekBibleStudent\Source\NT
+New LXX Text Folder: F:\Test\GreekBibleStudent\Source\LXX
+New Notes Path: F:\Test\GreekBibleStudent\Notes
+New Help File: F:\Test\GreekBibleStudent\Help\Help.html
+New Lexicon Path: F:\Test\GreekBibleStudent\Source\Lexicon
+New Keyboard Path: F:\Test\GreekBibleStudent\Source\Keyboard
+New Lexicon File: F:\Test\GreekBibleStudent\Source\Lexicon\LandSSummary.txt
+Now refreshing registry with new file details
